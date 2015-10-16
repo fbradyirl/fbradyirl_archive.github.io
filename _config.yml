@@ -1,16 +1,15 @@
 
 # Site settings
 
-url: "http://fbradyirl.github.io"
+url: "http://finbarrbrady.com"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: 
+baseurl:
 
-google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
 #############
 # HTML Head #
@@ -43,9 +42,7 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "Always forgive your enemies; nothing annoys them so much."
-  - text: "The true mystery of the world is the visible, not the invisible."
-  - text: "The only thing worse than being talked about is not being talked about."
+  - text: "I like cake."
 
 ########
 # Blog #
@@ -68,15 +65,18 @@ events:
   - image: "/img/career/ciscob.png"
     date: "July 2011 - Today"
     description: "Software Engineer @ Cisco, Ireland, working on cloud collaboration technologies."
+  - image: "/img/career/jellyicon.png"
+    date: "September 2008 - Today"
+    description: "iOS Software Engineer @ Webreach Ltd, developing mobile apps like Jelly SMS, and Beyond Meditation."
   - image: "/img/career/lumension.png"
-    date: "September 2007 - June 2011"
-    description: "Software Engineer @ Lumension, Ireland."
+    date: "October 2009 - June 2011"
+    description: "Software Engineer @ Lumension, Ireland. QA test automation."
   - image: "/img/career/Nortel-logo.png"
-    date: "September 2007 - June 2011"
-    description: "Software Engineer @ Nortel, Ireland."
+    date: "January-September 2009"
+    description: "Software Engineer @ Nortel, Ireland. QA Automation on Contact Center."
   - image: "/img/career/ericsson.png"
-    date: "September 2007 - June 2011"
-    description: "Software Engineer @ Ericsson, Ireland."
+    date: "September 2003 - September 2007"
+    description: "Software Engineer @ Ericsson, Ireland, working on QA automation of Ericssons CORE & WCDMA OSS products."
 
 # First image of the Career timeline
 career-img: "/img/labtocat.png"

@@ -3,20 +3,20 @@
 	<channel>
 		<title>{ Finbarr Brady }</title>
 		<description>Blog and website of Finbarr Brady, blogging mainly for tech. Opinions expressed are mine.</description>
-		<link>http://fbradyirl.github.io</link>
-		<atom:link href="http://fbradyirl.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://finbarrbrady.com</link>
+		<atom:link href="http://finbarrbrady.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Welcome to { Personal } Jekyll Theme!</title>
+				<title>Welcome to my redesigned website!</title>
 				
 				
-					<description>Click the view more posts link bellow, to see the currently available post-tutorials to help you get your { Personal } website up and running quicker!
+					<description>So after a fairly major hack of many of my websites, I decided to finally give Github hosted Jeykll pages a go! So far so good.
 
 </description>
 				
 				<pubDate>Sat, 27 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/27/welcome.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/27/welcome.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/27/welcome.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/27/welcome.html</guid>
 			</item>
 		
 			<item>
@@ -28,8 +28,8 @@
 </description>
 				
 				<pubDate>Thu, 25 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/25/html-head-tutorial.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/25/html-head-tutorial.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/25/html-head-tutorial.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/25/html-head-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -41,8 +41,8 @@
 </description>
 				
 				<pubDate>Wed, 24 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/24/intro-layout-tutorial.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/24/intro-layout-tutorial.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/24/intro-layout-tutorial.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/24/intro-layout-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -54,8 +54,8 @@
 </description>
 				
 				<pubDate>Sat, 20 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/20/blog-tutorial.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/20/blog-tutorial.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/20/blog-tutorial.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/20/blog-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -68,8 +68,8 @@ post, with publication date &lt;i&gt;YYYY-MM-DD&lt;/i&gt;.
 </description>
 				
 				<pubDate>Fri, 19 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/19/writing-posts.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/19/writing-posts.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/19/writing-posts.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/19/writing-posts.html</guid>
 			</item>
 		
 			<item>
@@ -82,8 +82,8 @@ post, with publication date &lt;i&gt;YYYY-MM-DD&lt;/i&gt;.
 </description>
 				
 				<pubDate>Mon, 15 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/15/rss-tutorial.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/15/rss-tutorial.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/15/rss-tutorial.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/15/rss-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -96,8 +96,8 @@ the form of a timeline of photos, dates and text descriptions. Let&#39;s see how
 </description>
 				
 				<pubDate>Fri, 12 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/12/timeline-tutorial.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/12/timeline-tutorial.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/12/timeline-tutorial.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/12/timeline-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -110,8 +110,8 @@ In order to change them, go to _config.yml and edit the social list:
 </description>
 				
 				<pubDate>Thu, 11 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/11/social-buttons-tutorial.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/11/social-buttons-tutorial.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/11/social-buttons-tutorial.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/11/social-buttons-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -123,8 +123,8 @@ In order to change them, go to _config.yml and edit the social list:
 </description>
 				
 				<pubDate>Wed, 10 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/10/contact-tutorial.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/10/contact-tutorial.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/10/contact-tutorial.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/10/contact-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -136,8 +136,8 @@ In order to change them, go to _config.yml and edit the social list:
 </description>
 				
 				<pubDate>Fri, 05 Jun 2015 00:00:00 +0100</pubDate>
-				<link>http://fbradyirl.github.io/tech/2015/06/05/404-page.html</link>
-				<guid isPermaLink="true">http://fbradyirl.github.io/tech/2015/06/05/404-page.html</guid>
+				<link>http://finbarrbrady.com/tech/2015/06/05/404-page.html</link>
+				<guid isPermaLink="true">http://finbarrbrady.com/tech/2015/06/05/404-page.html</guid>
 			</item>
 		
 	</channel>
