@@ -3,16 +3,11 @@ title: iTunes Connect Screenshots the Fast Way
 author: fin
 layout: post
 permalink: /2010/03/itunes-connect-screenshots-the-fast-way/
-featured_img:
-  - /images/itunes_ss_620.png
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-22-at-16.52.03.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
-<p style="text-align: left;">
-  <img class="aligncenter" title="iTunes Connect" alt="" src="/images/itunes_ss_620.png" width="620" height="252" />
-</p>
 
 <p style="text-align: left;">
   <em>Update: The fastest way to take screen grabs from the iOS sim is to press cmd+S or File>Save in the simulator menu. This saves a PNG file to your desktop!</em>

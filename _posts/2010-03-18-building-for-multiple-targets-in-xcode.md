@@ -3,16 +3,12 @@ title: Building for Multiple Targets in XCode
 author: fin
 layout: post
 permalink: /2010/03/building-for-multiple-targets-in-xcode/
-featured_img:
-  - /images/Targets.png
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.38.12.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
 Some months ago, I needed to create new versions of my app&#8217;s. I wanted to do this without duplicating any code or projects. <!--more-->So I did some research and decided to figure out how to build towards multiple targets in XCode.
-
-<img class="aligncenter" title="Targets" src="/images/Targets.png" alt="" width="625" height="236" />
 
 This is something I shied away from for a long time as I thought it would be a nightmare to figure out. What I discovered was that it&#8217;s much easier than I first thought, and also much more powerful as well.
 
