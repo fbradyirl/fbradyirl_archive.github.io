@@ -19,7 +19,7 @@ author: "Finbarr Brady"
 lang: "en"
 title: "{ Finbarr Brady }"
 favicon: "/img/favicon.ico"
-description: "Blog and website of Finbarr Brady, blogging mainly for tech. Opinions expressed are mine."
+description: "Ramblings of a Cavan man"
 keywords: "brady, finbarr, personal, jekyll, theme"
 
 ################
@@ -54,7 +54,7 @@ paginate: 5
 
 fb-share: True
 twitter-share: True
-reddit-share: True
+reddit-share: False
 disqus-shortname: "finbarrbrady"
 
 ###############

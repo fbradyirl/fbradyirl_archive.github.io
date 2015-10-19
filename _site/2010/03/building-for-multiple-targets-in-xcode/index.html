@@ -1,0 +1,387 @@
+
+<!-- Post Layout Start -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+  
+<!-- HEAD Start -->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ramblings of a Cavan man">
+  <meta name="author" content="Finbarr Brady">
+  <meta name="keywords" content="brady, finbarr, personal, jekyll, theme">
+  <link rel="canonical" href="/2010/03/building-for-multiple-targets-in-xcode/">
+  
+  
+  <title>{ Finbarr Brady }  | Building for Multiple Targets in XCode</title>
+
+  <!-- Bootstrap Core CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+  <!-- Custom CSS -->
+  <link href="/css/grayscale.css" rel="stylesheet">
+  <link href="/css/timeline.css" rel="stylesheet">
+
+  <!-- Custom Fonts -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+  
+</head>
+
+<!-- HEAD End -->
+
+
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    
+<!-- Navigation Start -->
+
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <i class="fa fa-bars"></i>
+            </button>
+            
+              <a class="navbar-brand page-scroll" href="/index.html#page-top">
+            
+            <div><img src="/img/black-lab-glass.ico" alt="">  { Finbarr Brady }</div>
+          </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+
+                
+                  <!-- Blog, Post, Tag pages-->
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#about"> About </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/blog/index.html"> Blog </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#career"> Career </a>
+                      </li>
+                    
+                  
+                    
+                      <li>
+                        <a class="page-scroll" href="/index.html#contact"> Contact </a>
+                      </li>
+                    
+                  
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Navigation End -->
+
+
+    <section id="Building for Multiple Targets in XCode" class="container content-section text-center">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+
+          <h1><strong>Building for Multiple Targets in XCode</strong></h1>
+          <h4><strong>18 Mar 2010</strong>
+            <small> .  . <a href="/2010/03/building-for-multiple-targets-in-xcode/#disqus_thread">Comments</a>
+            
+              <a href="/tags/Application Template.html">#Application Template</a>
+            
+              <a href="/tags/C Flag.html">#C Flag</a>
+            
+              <a href="/tags/Demo Project.html">#Demo Project</a>
+            
+              <a href="/tags/Direction.html">#Direction</a>
+            
+              <a href="/tags/Flags.html">#Flags</a>
+            
+              <a href="/tags/Free Version.html">#Free Version</a>
+            
+              <a href="/tags/homepost.html">#homepost</a>
+            
+              <a href="/tags/Iphone.html">#Iphone</a>
+            
+              <a href="/tags/Long Time.html">#Long Time</a>
+            
+              <a href="/tags/Meaningful Name.html">#Meaningful Name</a>
+            
+              <a href="/tags/Meaningful Names.html">#Meaningful Names</a>
+            
+              <a href="/tags/New Flag.html">#New Flag</a>
+            
+              <a href="/tags/Nightmare.html">#Nightmare</a>
+            
+              <a href="/tags/Plunge.html">#Plunge</a>
+            
+              <a href="/tags/Purchasing.html">#Purchasing</a>
+            
+              <a href="/tags/Target.html">#Target</a>
+            
+              <a href="/tags/Targets.html">#Targets</a>
+            
+              <a href="/tags/Utility Application.html">#Utility Application</a>
+            
+            </small>
+          </h4>
+
+          <p>Some months ago, I needed to create new versions of my app’s. I wanted to do this without duplicating any code or projects. <!--more-->So I did some research and decided to figure out how to build towards multiple targets in XCode.</p>
+
+<p><img class="aligncenter" title="Targets" src="/images/Targets.png" alt="" width="625" height="236" /></p>
+
+<p>This is something I shied away from for a long time as I thought it would be a nightmare to figure out. What I discovered was that it’s much easier than I first thought, and also much more powerful as well.</p>
+
+<p>So why do I need to do this? There are a few reasons:</p>
+
+<ul>
+  <li>To create different versions of your app which have different features. E.g. a ‘Lite’ or ‘Free’ version</li>
+  <li>To create targets which are tailored for different devices, possible with the same model and controller classes, but different view classes E.g. one target for iPhone, and another for iPad</li>
+</ul>
+
+<p>So how do we do it?</p>
+
+<p>Lets create a simple demo project.</p>
+
+<p>In XCode, create a new project based on the ‘Utility Application’ template. Lets call it ‘TargetTest’.</p>
+
+<p>Click on ‘Build and Run’</p>
+
+<p><img class="aligncenter size-full wp-image-61" title="Target1" src="http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.12.24.png" alt="" width="121" height="37" /></p>
+
+<p>Notice under ‘Targets’ that there is one default target called ‘TargetTest’</p>
+
+<p>We can create a new target by simply duplicating this one. Right click on that target and select ‘Duplicate’</p>
+
+<p style="text-align: center;">
+  <img class="size-full wp-image-63 aligncenter" title="Duplicate Targets" src="http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.15.15.png" alt="" width="148" height="113" />
+</p>
+
+<p style="text-align: left;">
+  You will notice a new info.plist copy is made for this new target. We can add target specific information here, such as changing the &#8216;Bundle Display Name&#8217;.
+</p>
+
+<p style="text-align: left;">
+  Lets rename the newly created target, TargetTest_VIP
+</p>
+
+<p style="text-align: left;">
+  <img class="aligncenter size-full wp-image-65" title="Rename Target" src="http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.24.17.png" alt="" width="148" height="55" />
+</p>
+
+<p style="text-align: left;">
+  Now, right click on the new target, and select &#8216;Get Info&#8217;. Under the &#8216;Build&#8217; tab, ensure you have Configuration set to &#8216;All Configurations&#8217;.
+</p>
+
+<p style="text-align: left;">
+  Now we want to add a new flag under the &#8216;Other C Flags&#8217; setting. We will enter -DVIPVERSION
+</p>
+
+<p style="text-align: center;">
+  <img class="size-full wp-image-66 aligncenter" title="Other C Flags" src="http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.27.27.png" alt="" width="394" height="240" />
+</p>
+
+<p style="text-align: left;">
+  We should also at this point, change the Product Name to a more meaningful name as shown.
+</p>
+
+<p style="text-align: left;">
+  <img class="aligncenter size-full wp-image-67" title="Target Name" src="http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.29.31.png" alt="" width="481" height="68" />
+</p>
+
+<p style="text-align: left;">
+  Now, to see how it works, we will modify MainViewController.m slightly. In the showInfo method, we want to check which target we are running on.
+</p>
+
+<p style="text-align: left;">
+  <img class="aligncenter size-full wp-image-68" title="Target ifdef" src="http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.31.44.png" alt="" width="633" height="338" />
+</p>
+
+<p style="text-align: left;">
+  So as you can see, if the C flag we defined is detected, the code will run in one direction, if not, then we go another way. We could easily give users who used in-app purchasing more features at this point for example.
+</p>
+
+<p style="text-align: left;">
+  Now, to test, we simply choose TargetTest_VIP from the Active Target dropdown, and &#8216;Build and Run&#8217;.
+</p>
+
+<p style="text-align: left;">
+  <img class="aligncenter size-full wp-image-69" title="Active Target" src="http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.35.58.png" alt="" width="312" height="83" />
+</p>
+
+<p style="text-align: left;">
+  Now, when we click on the info button, we get the VIP message:
+</p>
+
+<p style="text-align: center;">
+  <img class="aligncenter size-full wp-image-70" title="VIP" src="http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.38.12.png" alt="" width="265" height="493" />
+</p>
+
+<p style="text-align: left;">
+  <p style="text-align: left;">
+    Now if we run again, but this time first select the Active Target, TargetTest, when we press the info button, the view flips.
+  </p>
+  
+  <p style="text-align: left;">
+    You will also notice that 2 separate targets are built in your build output folder.
+  </p>
+  
+  <p style="text-align: left;">
+    So overall this makes things a lot easier when it comes to distribution and allows maximum code reuse which can only be a good thing!
+  </p>
+  
+  <p style="text-align: left;">
+    Download the demo project <a href="http://finbarrbrady.com/files/demos/TargetTestDemo.zip">here</a>.
+  </p>
+  
+  <p style="text-align: left;">
+    If there&#8217;s anything I&#8217;m missing, please leave a comment and I can add it to the post.
+  </p>
+  
+  <p style="text-align: left;">
+</p></p>
+
+
+          
+<!-- Share Buttons Start -->
+
+<div>
+
+  
+    <div style="float:left; padding: 0 5px; vertical-align:top">
+      <div class="fb-share-button" data-href="http://finbarrbrady.com/2010/03/building-for-multiple-targets-in-xcode/" data-layout="button_count"></div>
+    </div>
+  
+
+  
+    <div style="float:left; padding: 0 5px; vertical-align:top">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finbarrbrady.com/2010/03/building-for-multiple-targets-in-xcode/" data-text="Building for Multiple Targets in XCode #Application Template #C Flag #Demo Project #Direction #Flags #Free Version #homepost #Iphone #Long Time #Meaningful Name #Meaningful Names #New Flag #Nightmare #Plunge #Purchasing #Target #Targets #Utility Application "></a>
+  </div>
+  
+
+  
+
+</div>
+
+<!-- Share Buttons End -->
+
+
+          
+<!-- Disqus Comments Start -->
+
+
+  <div id="disqus_thread"></div>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+<!-- Disqus Comments End -->
+
+
+        </div>
+      </div>
+    </section>
+
+    <section id="Building for Multiple Targets in XCode" class="container content-section text-center">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          
+<!-- Social Buttons Start -->
+
+<ul class="list-inline social-buttons">
+  
+    <li><a href="http://facebook.com/finbarrbrady" target="_blank"><i class="fa fa-facebook fa-fw"></i></a></li>
+  
+    <li><a href="http://twitter.com/finbarrbrady" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
+  
+    <li><a href="https://github.com/fbradyirl" target="_blank"><i class="fa fa-github fa-fw"></i></a></li>
+  
+    <li><a href="/feed.xml" target="_blank"><i class="fa fa-rss fa-fw"></i></a></li>
+  
+</ul>
+
+<!-- Social Buttons End -->
+
+        </div>
+      </div>
+    </section>
+
+    
+ <!-- Footer Start -->
+
+<footer>
+    <div class="container text-center">
+        <p>Copyright &copy; Finbarr Brady 2015</p>
+    </div>
+</footer>
+
+<p><br><br><br><br><br><br></p>
+
+<!-- Footer End -->
+
+
+    
+<!-- Javascript Start -->
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/grayscale.js"></script>
+
+
+
+
+
+
+  <!-- Disqus -->
+
+  
+
+  
+
+
+
+
+
+
+
+<!-- Javascript End -->
+
+
+  </body>
+</html>
+
+<!-- Post Layout End -->
