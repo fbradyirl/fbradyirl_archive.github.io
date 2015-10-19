@@ -1,0 +1,14 @@
+---
+layout: post
+section-type: post
+title: Setting up a website using Github pages
+category: tech
+tags: [ 'tech' ]
+---
+
+I found a great step-by-step guide on how to build, configure and host your own personal website using Github pages. Check it out [here][1].
+
+ [1]: http://jmcglone.com/guides/github-pages/
+
+
+
