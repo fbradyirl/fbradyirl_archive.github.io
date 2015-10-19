@@ -7,19 +7,8 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2010/10/appstore_overview20101020.jpg
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/10/appstore_update20101020.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Comment and Opinion
-tags:
-  - Developers
-  - featured
-  - Free Applications
-  - Java Apple
-  - Legacy Technologies
-  - Mac Apple
-  - Mac Store
-  - Rosetta
-  - Snow Leopard
-  - Xcode
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 Apple yesterday announced that they are bringing an [App Store][1] to the Mac. Coming in 3 months, the Mac App Store will be available to existing Snow Leopard users, allowing them to quickly browse the market, read reviews, view screenshots and purchase both free and paid apps.
 

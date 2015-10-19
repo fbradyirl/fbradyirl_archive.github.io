@@ -5,34 +5,8 @@ layout: post
 permalink: /2010/03/accessing-cocoa-frameworks-from-java/
 onswipe_thumb:
   - http://72.249.5.151/~cp21476/finbarrbrady.com/wp-content/uploads/2010/03/greenshot_2010-03-18_16-06-50.png
-categories:
-  - Java Development
-tags:
-  - Abstract Methods
-  - Address Book
-  - Alternative Solution
-  - Apple
-  - C Interfaces
-  - C Objects
-  - Cheers
-  - Cocoa Frameworks
-  - Cross Platform
-  - Elegant Solution
-  - Generic Java
-  - Implementation
-  - Interfaces In Java
-  - Java Class
-  - Java Developers
-  - Java Libraries
-  - Linux
-  - Linux Platforms
-  - Long Time
-  - Loop Through
-  - Mac Os X
-  - Native Library
-  - Objective C
-  - Os X
-  - Platform Nature
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 For a long time, I searched for a way to access the Mac OS X Address Book framework from Java. This can be easily done by importing a few of the com.apple Java libraries, however, this will break the cross platform nature of your code as those libraries are not available on Windows and Linux platforms.
 

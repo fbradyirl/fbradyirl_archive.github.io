@@ -3,11 +3,11 @@ title: '&#8217;24&#8217; Making a Comeback. 12 new episodes coming.'
 author: fin
 layout: post
 permalink: /2013/05/24-making-a-comeback-12-new-episodes-coming/
-categories:
-  - Comment and Opinion
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 > Kiefer Sutherland is &#8230; to reprise his Emmy-winning role as Agent Jack Bauer.
-> 
+>
 > via [Deadline.com][1].
 
 &nbsp;

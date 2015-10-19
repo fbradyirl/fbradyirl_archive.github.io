@@ -7,27 +7,8 @@ featured_img:
   - /images/Targets.png
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.38.12.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - iPhone Development
-tags:
-  - Application Template
-  - C Flag
-  - Demo Project
-  - Direction
-  - Flags
-  - Free Version
-  - homepost
-  - Iphone
-  - Long Time
-  - Meaningful Name
-  - Meaningful Names
-  - New Flag
-  - Nightmare
-  - Plunge
-  - Purchasing
-  - Target
-  - Targets
-  - Utility Application
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 Some months ago, I needed to create new versions of my app&#8217;s. I wanted to do this without duplicating any code or projects. <!--more-->So I did some research and decided to figure out how to build towards multiple targets in XCode.
 
@@ -122,21 +103,21 @@ We can create a new target by simply duplicating this one. Right click on that t
   <p style="text-align: left;">
     Now if we run again, but this time first select the Active Target, TargetTest, when we press the info button, the view flips.
   </p>
-  
+
   <p style="text-align: left;">
     You will also notice that 2 separate targets are built in your build output folder.
   </p>
-  
+
   <p style="text-align: left;">
     So overall this makes things a lot easier when it comes to distribution and allows maximum code reuse which can only be a good thing!
   </p>
-  
+
   <p style="text-align: left;">
     Download the demo project <a href="http://finbarrbrady.com/files/demos/TargetTestDemo.zip">here</a>.
   </p>
-  
+
   <p style="text-align: left;">
     If there&#8217;s anything I&#8217;m missing, please leave a comment and I can add it to the post.
   </p>
-  
+
   <p style="text-align: left;">

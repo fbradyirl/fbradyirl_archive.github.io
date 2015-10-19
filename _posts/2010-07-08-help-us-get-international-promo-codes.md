@@ -7,32 +7,8 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2010/07/greenshot_2010-07-08_11-09-55.png
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/07/greenshot_2010-07-08_11-09-55.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Comment and Opinion
-tags:
-  - Api
-  - Apple
-  - Apps
-  - Asia
-  - Bottom Line
-  - Bug Description
-  - Bug Number
-  - Bug Report
-  - Destination Country
-  - Europe
-  - featured
-  - Functionality
-  - International Developers
-  - Iphone
-  - Ireland
-  - Itunes
-  - People
-  - Promo Code
-  - Promotion Codes
-  - Radar
-  - Regression
-  - Visibility
-  - Vote
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 Update: Apple has [responded][1] to our pleas and implemented this feature. Thanks to everyone who duplicated my bug and helped make this happen!<!--more-->
 
@@ -53,47 +29,47 @@ Power to the people!
 Here is the exact bug description if you want to copy it into yours:
 
 > I vote for bug number &#8216;8170041&#8217;
-> 
+>
 > <div id="_mcePaste">
 >   Summary:
 > </div>
-> 
+>
 > I, as an iPhone developer, would love to see Apple lead the way in allowing international developers to hand out promotion codes to anyone for our apps. Currently, developers can ONLY give promo codes to US iTunes account holders. And while this is a great feature, it is of little or no value to international developers such as myself in Ireland.
-> 
+>
 > <div id="_mcePaste">
 >   Bottom line ~
 > </div>
-> 
+>
 > We want to promote our apps within our own country and generate more sales.
-> 
+>
 > <div id="_mcePaste">
 >   Steps to Reproduce:
 > </div>
-> 
+>
 > At present, all developers must follow the steps for ad-hoc distribution in order to &#8216;give away&#8217; our apps for free for promotional purposes such as reviews. This can be hard for a non-technical user to understand, and takes much more time and effort than a simple promo code handout.
-> 
+>
 > <div id="_mcePaste">
 >   Expected Results:
 > </div>
-> 
+>
 > We expect better from Apple! It would be great to expand the current functionality provided by iTunes Connect, to allow the developer to select the destination (country) app store which the developers reviewer, or the receiver, is from, and then choose the amount of codes as currently is the case.
-> 
+>
 > <div id="_mcePaste">
 >   Actual Results:
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   As outlined
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   Regression:
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   N/A
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   Notes:
 > </div>

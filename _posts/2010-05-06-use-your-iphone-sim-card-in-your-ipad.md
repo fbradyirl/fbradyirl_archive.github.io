@@ -7,20 +7,8 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2010/05/greenshot_2010-05-06_16-37-08.png
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/05/SDC12198.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Comment and Opinion
-tags:
-  - 3g
-  - Chop
-  - featured
-  - Handy Guide
-  - Ipad
-  - Iphone
-  - Iphone Sim Card
-  - Micro Sim
-  - O2
-  - O2 Ireland
-  - Vodafone
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 <p style="text-align: center;">
   <img class="size-full wp-image-330 aligncenter" title="microsim" src="http://finbarrbrady.com/wp-content/uploads/2010/05/greenshot_2010-05-06_16-37-08.png" alt="" width="302" height="256" />
@@ -36,11 +24,11 @@ You can simply chop the plastic off from around your existing iPhone SIM using t
   <p>
     The first time you insert it into the iPad, just use the same APN settings on your iPad as your iPhone and data should be ready to go!
   </p>
-  
+
   <p>
     Just make sure you don&#8217;t go over your monthly data usage limit. So far, I&#8217;ve successfully carried out the operation on an O2 Ireland SIM and a 3 Ireland SIM.
   </p>
-  
+
   <p style="text-align: center;">
     <img class="aligncenter size-large wp-image-411" title="SDC12198" src="http://finbarrbrady.com/wp-content/uploads/2010/05/SDC12198-1024x768.jpg" alt="" width="574" height="430" />
   </p>

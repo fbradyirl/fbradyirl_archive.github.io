@@ -7,17 +7,8 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2010/05/appletvnew.jpg
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/05/appletvnew.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Comment and Opinion
-tags:
-  - Apple Os
-  - Apple Tv
-  - featured
-  - Ipad
-  - Iphone
-  - Itv
-  - Popularity
-  - Running
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 <img class="aligncenter size-full wp-image-359" title="appletvnew" src="http://finbarrbrady.com/wp-content/uploads/2010/05/appletvnew.jpg" alt="" width="600" height="483" />
 

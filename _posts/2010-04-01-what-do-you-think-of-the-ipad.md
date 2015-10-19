@@ -7,37 +7,15 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2010/04/ipad3.jpg
 onswipe_thumb:
   - http://img.youtube.com/vi/Luj263H_56A/0.jpg
-categories:
-  - Comment and Opinion
-tags:
-  - Apple Fans
-  - Casual Computer User
-  - Computer Industry
-  - Dad
-  - Finbarr
-  - H 264
-  - Ipad
-  - Little Bit
-  - Mac Os X
-  - Many Things
-  - Microsoft
-  - Microsoft Word
-  - Movie Files
-  - Moving
-  - Nerd
-  - Os X
-  - Pointer Move
-  - Unix
-  - Unix Commands
-  - Videoconferencing
-  - White Pointer
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 <img class="size-full wp-image-213 alignright" title="iPad" src="http://finbarrbrady.com/wp-content/uploads/2010/04/ipad1.jpg" alt="" width="284" height="177" />
 
 A question I&#8217;ve heard a number of times recently is:
 
 > Finbarr.
-> 
+>
 > What do you make of this new iPad coming out?
 
 <!--more-->My answer is starting to get a little bit repetitive, but it&#8217;s becoming more and more consistent.

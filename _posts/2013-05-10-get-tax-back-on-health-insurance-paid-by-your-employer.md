@@ -3,8 +3,8 @@ title: Get tax back on health insurance paid by your employer
 author: fin
 layout: post
 permalink: /2013/05/get-tax-back-on-health-insurance-paid-by-your-employer/
-categories:
-  - Comment and Opinion
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 *Did you know&#8230;*
 

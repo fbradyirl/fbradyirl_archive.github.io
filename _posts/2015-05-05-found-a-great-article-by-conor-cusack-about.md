@@ -3,8 +3,8 @@ title: 'Depression is difficult to explain to people'
 author: fin
 layout: post
 permalink: /2015/05/found-a-great-article-by-conor-cusack-about/
-categories:
-  - Comment and Opinion
+category: tech
+tags: [ 'tech', 'wp' ]
 format: link
 ---
 Found a great article by Conor Cusack about how he overcame acute depression. Have a read [here][1]

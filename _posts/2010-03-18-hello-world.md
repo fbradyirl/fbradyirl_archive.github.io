@@ -5,20 +5,8 @@ layout: post
 permalink: /2010/03/hello-world/
 onswipe_thumb:
   - SKIP
-categories:
-  - Comment and Opinion
-tags:
-  - Cheers
-  - Cocoa
-  - Developer Tips
-  - Experiences
-  - Hello
-  - Iphone
-  - Java Development
-  - Linux
-  - Objective C
-  - Personal Website
-  - Tips And Tricks
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 I&#8217;m very excited to finally getting around to setting up my own personal website and blog.
 

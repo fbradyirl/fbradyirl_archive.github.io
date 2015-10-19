@@ -9,10 +9,8 @@ js:
   - '<script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//docs.google.com/spreadsheet/tq?key=0Ah3t-H0jHuxSdGx0VGZCOHJzSTNNNmxzNTA1ZklQN2c&transpose=0&headers=1&merge=COLS&range=0!C1%3AC39%2C2!D1%3AD39&rtyp=GID&pub=1","options":{"vAxes":[{"title":"kbps","minValue":null,"maxValue":null}],"reverseCategories":false,"title":"Download Speed on 3 Ireland","backgroundColor":"#FFFFFF","pointSize":0,"legend":"right","logScale":false,"reverseAxis":false,"hAxis":{"maxAlternations":1},"hasLabelsColumn":false,"isStacked":false,"width":1346,"height":455},"state":{},"chartType":"AreaChart","chartName":"Download Speeds"} </script>'
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2011/10/download_speeds.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Comment and Opinion
-tags:
-  - featured
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 Apple have upgraded a number of the internals in the latest iPhone release, including the camera, the lens system, the processor, and a new *dual band, intelligent switching antenna design supporting *<a href="http://en.wikipedia.org/wiki/Evolved_HSPA" target="_blank">HSPA+</a> **.
 
@@ -32,55 +30,55 @@ So I decided to run a simple test, using the <a href="http://www.speedtest.net/m
   <tr>
     <td>
     </td>
-    
+
     <td style="background-color: #e9e9e9; font-weight: bolder;">
       Download
     </td>
-    
+
     <td style="background-color: #e9e9e9; font-weight: bolder;">
       Upload
     </td>
   </tr>
-  
+
   <tr>
     <td style="background-color: #e9e9e9; font-weight: bolder;">
       iPhone 4 average
     </td>
-    
+
     <td>
       1.6 Mbps
     </td>
-    
+
     <td>
       1.0 Mbps
     </td>
   </tr>
-  
+
   <tr>
     <td style="background-color: #e9e9e9; font-weight: bolder;">
       iPhone 4S average
     </td>
-    
+
     <td>
       3.8 Mbps
     </td>
-    
+
     <td>
       1.6 Mbps
     </td>
   </tr>
-  
+
   <tr>
     <td style="background-color: #e9e9e9; font-weight: bolder;">
       Speed Improvement
     </td>
-    
+
     <td>
       <h2>
         2.4 times
       </h2>
     </td>
-    
+
     <td>
       <h2>
         1.6 times

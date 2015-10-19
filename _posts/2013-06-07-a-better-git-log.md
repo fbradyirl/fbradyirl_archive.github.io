@@ -3,11 +3,8 @@ title: A better git log
 author: fin
 layout: post
 permalink: /2013/06/a-better-git-log/
-categories:
-  - iPhone Development
-  - Java Development
-  - Mac Development
-  - Tips And Tricks
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 A very handy git log view via the command line.
 

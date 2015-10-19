@@ -3,8 +3,8 @@ title: How Bitcoin works
 author: fin
 layout: post
 permalink: /2013/05/how-bitcoin-works/
-categories:
-  - Comment and Opinion
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 A useful flow chart of how a Bitcoin transaction completes.
 

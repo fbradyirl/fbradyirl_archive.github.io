@@ -7,29 +7,8 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2010/06/overview_hero5_20100607.png
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/06/overview_hero5_20100607.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Comment and Opinion
-  - iPhone Development
-tags:
-  - 3g
-  - 3gs
-  - Apple
-  - Back Glass
-  - Cellular Networks
-  - featured
-  - Glass Enclosure
-  - Hardware Upgrades
-  - Hd
-  - Ipad
-  - Iphone
-  - Iphone 4
-  - Iphones
-  - Ipod Touch
-  - Ireland
-  - Megapixel Camera With Flash
-  - Steve Jobs
-  - Wifi
-  - Wwdc
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 <img class="aligncenter size-medium wp-image-376" title="overview_hero3_20100607" src="http://finbarrbrady.com/wp-content/uploads/2010/06/overview_hero3_20100607-235x300.png" alt="" width="235" height="300" />
 

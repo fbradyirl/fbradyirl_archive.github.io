@@ -3,8 +3,8 @@ title: Get a fusion drive on your old Mac
 author: fin
 layout: post
 permalink: /2013/06/get-a-fusion-drive-on-your-old-mac/
-categories:
-  - Tips And Tricks
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 > &#8220;Setup a Fusion drive on any Mac capable of installing a hard drive and SSD together&#8221;
 

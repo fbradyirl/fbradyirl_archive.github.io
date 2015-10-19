@@ -9,16 +9,11 @@ enclosure:
         http://www.extraextra.ie/files/JellyMacDemo1.mp4
         497501
         video/mp4
-        
+
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2011/01/512x512.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Mac Development
-tags:
-  - Ireland SMS
-  - jelly SMS for mac
-  - jellysms
-  - mac app store
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 Update March 7 2011: The beta period is now over. Thanks so much to those who helped out, and reported issues and feedback. Jelly SMS is now available on the Mac App Store. See[ JellySMS.com][1] for more info and to get the app.
 

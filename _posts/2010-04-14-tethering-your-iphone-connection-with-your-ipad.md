@@ -7,28 +7,8 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2010/04/MyWiWeb1.png
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/04/MyWiWeb1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Comment and Opinion
-tags:
-  - 3g
-  - Amp
-  - Bluetooth
-  - Broadband
-  - Early Adopters
-  - featured
-  - Internet Connection
-  - Ipad
-  - Ipad Owners
-  - Iphone
-  - Ireland
-  - Laptop
-  - Laptops
-  - Last Time
-  - Lot
-  - Mywi
-  - Os 4
-  - Steve Jobs
-  - Wifi Hotspot
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 New Wifi iPad owners are finding that when they leave the house, it can be hard to find a Wifi hotspot and get connected.<!--more-->
 

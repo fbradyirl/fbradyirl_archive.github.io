@@ -3,12 +3,11 @@ title: The end of roaming charges
 author: fin
 layout: post
 permalink: /2013/06/the-end-of-roaming-charges/
-categories:
-  - Comment and Opinion
-  - Tech
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 > Consumers will next year be able to use their mobile phones across the European Union for the same price as at home, it is planned, after officials voted to fast-track major reforms of telecoms regulation.It will cost the same to use a smartphone on the Continent as at home under the proposals
-> 
+>
 > via [EU to end mobile roaming charges next year &#8211; Telegraph][1].
 
 Some good news from Europe for a change, and some interesting food for thought.

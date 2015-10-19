@@ -7,18 +7,16 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2011/04/stevex64.jpeg
 onswipe_thumb:
   - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2011/04/stevex64.jpeg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
-categories:
-  - Mac Development
-tags:
-  - featured
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 <img class="alignright size-full wp-image-667" title="stevex64" src="http://finbarrbrady.com/wp-content/uploads/2011/04/stevex64.jpeg" alt="" width="264" height="175" />If you are a developer with an app in the Mac App Store, then you have probably come across this Apple rule:
 
 > Application executables may support either or both of the Intel architectures:
-> 
-> i386 (32-bit)  
+>
+> i386 (32-bit)
 > x86_64 (64-bit)
-> 
+>
 > Other architectures may not be included in submitted binaries.
 
 No problem says you. However, until recently, Apple did not check things like dylibs contained within your app bundle. They do now.
@@ -27,7 +25,7 @@ This means that you must make sure that any 3rd party components you have import
 
 So how do we do this? Simple enough, but it requires and extra step after building the archive.
 
-  1. First to be safe, you should check your target build settings to ensure that your target architectures are set to i386 and x86_64.  So first click on the Project in XCode, then select the target:  
+  1. First to be safe, you should check your target build settings to ensure that your target architectures are set to i386 and x86_64.  So first click on the Project in XCode, then select the target:
     <img class="aligncenter size-full wp-image-644" title="Select target" src="http://finbarrbrady.com/wp-content/uploads/2011/04/Screen-shot-2011-04-27-at-21.55.21.png" alt="" width="442" height="55" /> Then, under the &#8216;Build Settings&#8217; tab look at the &#8216;Valid Architectures&#8217; and check that it looks like this:<img class="aligncenter size-full wp-image-645" title="Arch" src="http://finbarrbrady.com/wp-content/uploads/2011/04/Screen-shot-2011-04-27-at-22.08.30.png" alt="" width="402" height="175" />
   2. Then, as normal, build the product for Archive<img class="aligncenter size-full wp-image-646" title="Screen shot 2011-04-27 at 22.10.08" src="http://finbarrbrady.com/wp-content/uploads/2011/04/Screen-shot-2011-04-27-at-22.10.08.png" alt="" width="272" height="128" />
   3. The Organser window should open automatically when done. At this point, we&#8217;re interested in finding the .app bundle. Where is it? Lets see&#8230; Right click on the archive, and select &#8216;Show In Finder&#8217;<img class="aligncenter size-full wp-image-647" title="Screen shot 2011-04-27 at 22.12.25" src="http://finbarrbrady.com/wp-content/uploads/2011/04/Screen-shot-2011-04-27-at-22.12.25.png" alt="" width="497" height="134" />

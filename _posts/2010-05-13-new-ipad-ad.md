@@ -7,8 +7,6 @@ featured_img:
   - http://finbarrbrady.com/wp-content/uploads/2010/05/ipadAdvert.png
 onswipe_thumb:
   - http://img.youtube.com/vi/fihOmQY-JxY/0.jpg
-categories:
-  - Comment and Opinion
-tags:
-  - featured
+category: tech
+tags: [ 'tech', 'wp' ]
 ---

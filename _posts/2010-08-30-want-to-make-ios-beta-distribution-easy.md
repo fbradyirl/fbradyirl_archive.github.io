@@ -8,14 +8,8 @@ featured_img:
   - http://www.hanchorllc.com/betabuilder/bb_safari_screen_large.png
 onswipe_thumb:
   - http://www.hanchorllc.com/betabuilder/betabuilder_screen_large.png
-categories:
-  - iPhone Development
-tags:
-  - Apple
-  - Beta Distribution
-  - featured
-  - Itunes
-  - Sync
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 Then check out iOS Beta Builder&#8230;<!--more-->
 

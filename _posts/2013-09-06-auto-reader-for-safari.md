@@ -3,10 +3,8 @@ title: Auto-Reader for Safari
 author: fin
 layout: post
 permalink: /2013/09/auto-reader-for-safari/
-categories:
-  - Mac Development
-  - Tech
-  - Tips And Tricks
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 > <p style="text-align: center;">
 >   <img class="aligncenter size-full wp-image-875" title="Safari Reader" alt="Screen Shot 2013-09-06 at 14.56.03" src="http://finbarrbrady.com/wp-content/uploads/2013/09/Screen-Shot-2013-09-06-at-14.56.03.png" width="1580" height="780" />Automatically enter Reader on any page for which Reader is available.

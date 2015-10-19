@@ -3,12 +3,8 @@ title: The end of Britpop
 author: fin
 layout: post
 permalink: /2013/05/the-end-of-britpop/
-categories:
-  - Comment and Opinion
-  - Music
-tags:
-  - blur
-  - Oasis
+category: tech
+tags: [ 'tech', 'wp' ]
 ---
 [Noel Gallagher and Damon Albarn make history, performing together in London | News | NME.COM][1].
 
