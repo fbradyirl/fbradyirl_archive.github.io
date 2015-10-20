@@ -52,8 +52,8 @@ post-preview-words: 128
 
 paginate: 5
 
-fb-share: True
-twitter-share: True
+fb-share: False
+twitter-share: False
 reddit-share: False
 disqus-shortname: "finbarrbrady"
 
