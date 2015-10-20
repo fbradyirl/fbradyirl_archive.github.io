@@ -6,7 +6,7 @@ category: tech
 tags: [ 'tech' ]
 ---
 
-![MyRepo](http://finbarrbrady.com/img/posts/github_screenshot.png)
+![MyRepo](/img/posts/github_screenshot.png)
 
 
 I found a great step-by-step guide on how to build, configure and host your own personal website using Github pages. Check it out [here][1].
