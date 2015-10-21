@@ -27,7 +27,8 @@ keywords: "brady, finbarr, personal, jekyll, theme"
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-background-img: "../img/FIN_BUNGY_JUMP.jpg"
+#background-img: "https://images.unsplash.com/photo-1439694458393-78ecf14da7f9?fit=crop&fm=jpg&h=925&q=80&w=1425"
+background-img: "/img/view.jpg"
 me-img: "/img/finsq.png"
 
 ##############################
@@ -42,7 +43,7 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "I like cake."
+  - text: "Welcome!"
 
 ########
 # Blog #
