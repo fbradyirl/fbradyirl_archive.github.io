@@ -43,8 +43,9 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "Welcome!"
-
+  - text: "'They don't make bugs like Bunny anymore.' - Olav Mjelde."
+  - text: "'I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone' - Bjarne Stroustrup"
+  
 ########
 # Blog #
 ########
