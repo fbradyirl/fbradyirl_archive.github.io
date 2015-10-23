@@ -45,7 +45,7 @@ delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "'They don't make bugs like Bunny anymore.' - <b>Olav Mjelde.</b>"
   - text: "'I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone' - <b>Bjarne Stroustrup</b>"
-  - text: "'You can have the project:<ul><li>Done On Time</li><li>Done On Budget</li><li>Done Properly</li></ul><br><br>Pick two.'"
+
 ########
 # Blog #
 ########
