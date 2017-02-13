@@ -1,5 +1,12 @@
 ---
 published: false
+author: fin
+layout: post
+category: tech
+tags:
+  - tech
+  - wp
+format: link
 ---
 ## I Love Scotland
 
