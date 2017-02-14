@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: fin
 layout: post
 category: tech
