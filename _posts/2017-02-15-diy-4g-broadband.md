@@ -9,10 +9,19 @@ I was also in this same position when I moved into my home a couple of years bac
 
 ## Hardware
 First, you will need one of these two options:
-1. a built in LTE modem (and SIM card slot) OR
-2. an older router which can support an LTE dongle modem, plugged into the USB slot of the router.
+1. a router with a built in LTE modem (and SIM card slot) OR
+2. an older "dumb" router which can support an LTE dongle modem, plugged into the USB slot of the router.
 
-Lets start with the easier option, option 1.
+Lets take a closer look at both options...
 
-There are several LTE routers out there, but one I have heard good things about is this [TP-Link one on Amazon](http://www.amazon.co.uk/dp/B016ZWXYXG/ref=cm_sw_r_tw_dp_x_imiPybQ6E4TDW). That is a pretty standard, carrier unlocked, router which also gives you wireless N connectivity to the devices in your home. It also has support for unscrewing those rabbit ear antennas, to pop in your own at a later stage (we will discuss this later on...).
+### 1. Easy option: Router with a built in LTE modem
+
+There are several LTE routers out there, but one I have heard good things about is this [TP-Link one on Amazon](http://www.amazon.co.uk/dp/B016ZWXYXG/ref=cm_sw_r_tw_dp_x_imiPybQ6E4TDW). That TP-Link router is a pretty standard, carrier unlocked, router which also gives you wireless N connectivity to the devices in your home. It also is **extensible** in that it has external antennas on the back, which is good, so you have the option to pop in your own at a later stage _(we will discuss this later on...)_.
+
+### 2. "Dumb" router which has a USB slot, but not an LTE/4G modem built in
+
+So lets talk about a common case, where you might have one or more old routers lying around gathering dust at home. For example, your old Vodafone DSL router (Huawei HG556a). Did you know that you could reflash that router with an open-source firmware, such as OpenWRT, and turn it into a pretty powerful 4G capable device. Even if you don't have one, you can get them [on eBay](http://www.ebay.ie/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR0.TRC0.H0.XHuawei+HG556a.TRS0&_nkw=Huawei+HG556a&_sacat=0) for less than €20.
+
+There are a number of routers you can fit into this category, and the hardware list is [detailed here on the ofmodemsandmen website](http://www.ofmodemsandmen.com/supported.html). That site contains a special modified build of OpenWRT, called **ROOter**, which includes the needed drivers and built in scripts to support plugging in a USB modem and connecting automatically to your 4G network. The main guys who develop the firmware are a friendly bunch of farmers in Australia (I shit you not). They have done a great job of adding an extra 'Modem' section to the standard OpenWRT web UI, and this lets you configure things like the APN, send and recieve SMS messages.
+
 
