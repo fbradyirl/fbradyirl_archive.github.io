@@ -4,11 +4,12 @@ section-type: post
 title: Killing Facebook (app)
 category: tech
 tags: [ 'tech' ]
+subtitle: Or getting off it!
 ---
 
-![MyRepo](/img/posts/iOS-battery-life.png)
-
 [John Gruber][1] recently talked about how the Facebook app is quietly draining peoples battery on iOS, even when background mode is diabled. The app is playing silent audio in order to keep the app going (sneaky!). 
+
+![MyRepo](/img/posts/iOS-battery-life.png)
 
 The recommended fix is to delete the app and just [use the mobile site][2], which I did earlier today with pleasure! 
 

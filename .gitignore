@@ -2,3 +2,8 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.vagrant
+
+# general
+Thumbs.db
+ehthumbs.db%

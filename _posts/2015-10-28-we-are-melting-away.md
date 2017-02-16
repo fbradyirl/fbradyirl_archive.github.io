@@ -4,9 +4,9 @@ section-type: post
 title: We are melting away
 category: earth
 tags: [ 'earth' ]
+subtitle: Melting My Head
+published: false
 ---
-
-![MyRepo](/img/posts/greenland.png)
 
 Take a look at this amazingly visual article by the [New York Times][1] about ongoing climate change research in Greenland. As you scroll down, the images and text become one.
 

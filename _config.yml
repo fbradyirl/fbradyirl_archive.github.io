@@ -1,134 +1,208 @@
+# --- General options --- #
 
-# Site settings
+# url is the full website URL
+# baseurl is the website's URL without the hostname
 
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://finbarrbrady.com"
+#baseurl: ""
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
 
-# baseurl:
+# Of course don't forget to change the username and projectname to YOUR username and project
 
-
-#############
-# HTML Head #
-#############
-
-author: "Finbarr Brady"
-lang: "en"
+# Name of website
 title: "{ Finbarr Brady }"
-favicon: "/img/favicon.ico"
-description: "Ramblings of a Cavan man"
+lang: "en"
+description: "Finbarrs Site"
 keywords: "brady, finbarr, personal, jekyll, theme"
 
-################
-# Intro layout #
-################
+# --- Navigation bar options --- #
 
-black-favicon: "/img/black-lab-glass.ico"
-#background-img: "https://images.unsplash.com/photo-1439694458393-78ecf14da7f9?fit=crop&fm=jpg&h=925&q=80&w=1425"
-background-img: "/img/view.jpg"
-me-img: "/img/fin.png"
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  # Resources:
+  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  #   - GitHub Pages: "https://pages.github.com/"
 
-##############################
-# Dynamic Text on the header #
-##############################
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar-icon.png"
 
-dynamic-typing: True
-shuffle: True	# Shuffle the lines.
-loop: True
-loop-count:	False # Set False for infinite loop, or set any number for finite loop.
-type-speed:	10		# Default 10
-start-delay: 200	# Default 200
-delete-delay: 5000	# Default 5000
-lines:			# You can add HTML Tags in the Text
-  - text: "'They don't make bugs like Bunny anymore.' - <b>Olav Mjelde.</b>"
-  - text: "'I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone' - <b>Bjarne Stroustrup</b>"
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: /path/to/image
 
-########
-# Blog #
-########
+# --- Footer options --- #
 
-post-preview-words: 128
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Finbarr Brady
+  email: "finbarr@finbarrbrady.com"
+  facebook: yourname  # eg. daattali
+  github: fbradyirl    # eg. daattali
+  twitter: finbarrbrady   # eg. daattali
+  reddit: finbarrbrady    # eg. daattali
+  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  linkedin: finbarrbrady  # eg. daattali
+  xing: yourname      # eg. daattali
+  stackoverflow: yourlink  # eg. "3943160/daattali"
+  snapchat: yourname  # eg. daattali
+  instagram: yourname # eg. daattali
+  youtube: yourlink   # eg. user/daattali or channel/daattali
+  spotify: finbarr.brady   # eg. daattali
+  telephone: yourphone   # eg. +14159998888
 
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: false
+  email: true
+  twitter: true
+  google-plus: false
+  github: true
+  reddit: true
+  linkedin: true
+  xing: false
+  stackoverflow: false
+  snapchat: false
+  instagram: false
+  youtube: false
+  spotify: true
+  telephone: false
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: false
+  facebook: false
+  google: false
+  linkedin: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "finbarrbrady.com"  # eg. "deanattali.com/beautiful-jekyll"
+
+# --- Misc --- #
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "finbarrbrady"
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# Google Tag Manager ID
+#gtm: ""
+
+# Facebook App ID
+# fb_app_id: ""
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "Europe/Dublin"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
 paginate: 5
 
-fb-share: False
-twitter-share: False
-reddit-share: False
-disqus-shortname: "finbarrbrady"
+kramdown:
+  input: GFM
 
-###############
-# Life Events #
-###############
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
 
-events:
-  - image: "/img/career/ciscob.png"
-    date: "July 2011 - Today"
-    description: "Software Engineer @ Cisco, Ireland, working on cloud collaboration technologies."
-  - image: "/img/career/jellyicon.png"
-    date: "September 2008 - Today"
-    description: "iOS Software Engineer @ Webreach Ltd, developing mobile apps like Jelly SMS, and Beyond Meditation."
-  - image: "/img/career/lumension.png"
-    date: "October 2009 - June 2011"
-    description: "Software Engineer @ Lumension, Ireland. QA test automation."
-  - image: "/img/career/Nortel-logo.png"
-    date: "January-September 2009"
-    description: "Software Engineer @ Nortel, Ireland. QA Automation on Contact Center."
-  - image: "/img/career/ericsson.png"
-    date: "September 2003 - September 2007"
-    description: "Software Engineer @ Ericsson, Ireland, working on QA automation of Ericssons CORE & WCDMA OSS products."
+# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
+link-tags: false
 
-# First image of the Career timeline
-career-img: "/img/labtocat.png"
+# Exclude these files from production site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - Vagrantfile
 
-##################
-# Contact layout #
-##################
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 
-email: "finbarr@finbarrbrady.com"
+gems:
+  - jekyll-paginate
 
-##################
-# Social Buttons #
-##################
-
-social:
-  - title: "facebook"
-    url: "http://facebook.com/finbarrbrady"
-  - title: "twitter"
-    url: "http://twitter.com/finbarrbrady"
-  - title: "github"
-    url: "https://github.com/fbradyirl"
-  - title: "rss"
-    url: "/feed.xml"
-
-############
-# 404 page #
-############
-
-404-img: "/img/labtocat.png"
-
-################################################################################
-
-# Tread carefully if you want to change the variables below this point!
-
-# Navigation bar links
-# Blog link in the blog and post pages will point to the blog.html#blog
-# In the default page it will point to the preview of the last post
-
-pages_list:
-  About: 'about'
-  Blog: 'blog'
-  Career: 'career'
-  Contact: 'contact'
-
-# Pagination path
-paginate_path: "blog/page:num"
-
-# Enable minification SASS
-sass:
-  style: compressed
-
-# Exclusion list from the generated _site
-exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
