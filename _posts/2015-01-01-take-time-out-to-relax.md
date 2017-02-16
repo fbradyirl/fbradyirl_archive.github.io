@@ -1,15 +1,23 @@
 ---
+layout: post
 title: Take Time Out To Relax
 author: fin
-layout: post
 permalink: /2015/01/take-time-out-to-relax/
 category: tech
-tags: [ 'tech', 'wp' ]
+tags:
+  - tech
+  - wp
 format: quote
+published: true
+subtitle: Give Some Time to You Each Day
+image: >-
+  http://is5.mzstatic.com/image/thumb/Purple60/v4/03/4b/7e/034b7e14-48fc-5e37-8b8f-64b49eda0f61/source/175x175bb.jpg
 ---
-[<img src="http://finbarrbrady.com/wp-content/uploads/2015/01/IMG_5674.jpg" alt="IMG_5674.JPG" class="alignnone size-full" />][1]
 
 My brother Ollie, and I, have recently released a new iPhone app, called [Beyond Meditation][2].
+
+![alt text][logo]
+
 
 The app has a number of free audio levels, which progressively take you to a deeper feeling of relaxation, over a number of months.
 
@@ -31,6 +39,6 @@ The audios in this app are designed to be safe when used as per the instructions
 
 NOTE: You may purchase all of the further levels from within the app in one transaction at a 60% discount over their individual in-app purchase price (look for the &#8220;Buy All&#8221; button within the app&#8217;s sidebar).
 
- [1]: http://finbarrbrady.com/wp-content/uploads/2015/01/IMG_5674.jpg
+ [logo]: {{site.baseurl}}/img/posts/Beyond-d1.png
  [2]: https://appsto.re/ie/qePwL.i
  [3]: https://www.facebook.com/BeyondMeditation
