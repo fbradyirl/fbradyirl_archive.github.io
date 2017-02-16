@@ -16,8 +16,7 @@ image: >-
 
 My brother Ollie, and I, have recently released a new iPhone app, called [Beyond Meditation][2].
 
-![alt text][logo]
-
+![Beyond App Icon][logo]
 
 The app has a number of free audio levels, which progressively take you to a deeper feeling of relaxation, over a number of months.
 
