@@ -32,7 +32,7 @@ So all that is missing now is your modem (which you can pop a SIM card into). On
 
 Once you have the router and modem sorted, you are almost good to go. All you need now is a SIM card from one of the mobile networks. I would advise that you try out SIM cards from different networks to see which one gives the best signal & speeds in your area. 
 
-Personally, I myself went with Three. And, instead of choosing a broadband SIM, I got a [pre-paid SIM card](http://www.three.ie/online/voice/prepay/3pay-trio-sim/) from them. This has the advantage of giving you _unlimited_ data each month when you top up by €20 in one go. Don't worry that it is advertised as a phone SIM. There is no such thing. You are using this for data only and won't be using it for calls or SMS and that is OK. If you went with a Three broadband SIM, you would be limited to a low monthly data cap, plus you can get a nasty bill if you go over your allocation. This is why I would advise against this, and instead go for the pre-pay.
+Personally, I myself went with Three. And, instead of choosing a broadband SIM, I got a [pre-paid SIM card](http://www.three.ie/online/voice/prepay/3pay-trio-sim/) from them. This has the advantage of giving you _unlimited_ data each month when you top up by €20 in one go. Don't worry that it is advertised as a phone SIM. There is no such thing. You are using this for data only and won't be using it for calls or SMS and that is OK. If you went with a Three broadband SIM, you would be limited to a low monthly data cap, plus you can get a nasty bill if you go over your allocation. This is why I would advise against this, and instead go for the pre-pay option.
 
 ## Putting it all together
 
@@ -41,7 +41,7 @@ To recap, now you have:
 - A router with OpenWRT (ROOter build) and a 4G dongle plugged into the USB slot.
 - and you have a SIM card from your mobile provider.
 
-Now, you have all the hardware sortd, just go ahead and top up your SIM card with €20 if you haven't already done so. 
+Now, you have all the hardware ready, just go ahead and top up your SIM card with €20 if you haven't already done so. 
 
 Once you put it all together, you should be able to turn on the router and start surfing the web. Keep an eye on your signal strength and move the router to the best place in your home where you get the best signal. For me, that is in the attic.
 
@@ -49,7 +49,7 @@ Once you put it all together, you should be able to turn on the router and start
 
 The last, but not least, thing I recommend, is that you purchase an outdoor antenna. LTE 4G antennas are pretty cheap and you can pick one up for around €50 online. I can recommend [ATC Supplies](http://www.atcsupplies.ie/search.php?search_for=lte+aerial&manufacturer=*&category=*) who are based in Cavan, but will deliver nationwide. Give them a call and they can advise of the best antenna you can buy to fit the router/modem you are using.
 
-For me, the difference between using an external antenna and not, is the difference between zero percent (yes 0%) coverage, to about ~70% coverage. It makes a hugh difference in my home. I believe this is because Three operate on a high freqency and that does not penetrate the walls in my house very well. The external antenna fixes all that.
+For me, the difference between using an external antenna and not, is the difference between zero percent (yes 0%) coverage, to about ~70% coverage. It makes a huge difference in my home. I believe this is because Three operate on a high freqency and that does not penetrate the walls in my house very well. The external antenna fixes all that as I have it hanging out the window.
 
 Again, play around with the positioning of the antenna until you get the best signal possible.
 
