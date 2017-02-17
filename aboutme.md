@@ -2,6 +2,8 @@
 layout: page
 title: About me
 subtitle: What is it that I want to tell you about me?
+published: true
+image: /img/fin.png
 ---
 
 I have been working in software engineering for over 10 years. Using agile, writing code, while placing a large focus on quality. More recently, I have moved into more _dev-opsy_ type projects, focusing on microservices and web frontend technologies for the [Cisco Spark platform](https://developer.ciscospark.com). 
