@@ -10,13 +10,9 @@ tags:
 format: quote
 published: true
 subtitle: Give Some Time to You Each Day
-image: >-
-  http://is5.mzstatic.com/image/thumb/Purple60/v4/03/4b/7e/034b7e14-48fc-5e37-8b8f-64b49eda0f61/source/175x175bb.jpg
 ---
 
 My brother Ollie, and I, have recently released a new iPhone app, called [Beyond Meditation][2].
-
-![Beyond App Icon][logo]
 
 The app has a number of free audio levels, which progressively take you to a deeper feeling of relaxation, over a number of months.
 
