@@ -17,7 +17,7 @@ url: "http://finbarrbrady.com"
 title: "{ Finbarr Brady }"
 lang: "en"
 description: "Finbarrs Site"
-keywords: "brady, finbarr, personal, jekyll, theme"
+keywords: "brady, finbarr, software engineer, galway ireland"
 
 # --- Navigation bar options --- #
 
@@ -78,8 +78,8 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   google: false
   linkedin: false
 
@@ -203,6 +203,3 @@ prose:
 
 gems:
   - jekyll-paginate
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
