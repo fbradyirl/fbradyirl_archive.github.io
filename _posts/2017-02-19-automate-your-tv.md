@@ -10,6 +10,7 @@ tags:
   - home assistant
   - enigma2
   - openvix
+image: img/posts/enigma2gif.gif)
 ---
 I have been using [Home Assistant][1] on my Raspberry Pi for the past few months to power my home automation. 
 
