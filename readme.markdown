@@ -1,6 +1,4 @@
-![Build Status](https://travis-ci.org/fbradyirl/fbradyirl.github.io.svg?branch=master)
-
-# { Personal } Website
+# Personal Website
 
 This is my own personal website source code.
 
