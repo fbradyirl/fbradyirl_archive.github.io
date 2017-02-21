@@ -20,7 +20,7 @@ I then developed a custom **media_player** component for Home Assistant, which a
     - Programme Name & Description
     - Picon (channel icon) for the station
 
-![Home Assistant Enigma2 Preview]({{site.baseurl}}/img/posts/enigma2/png)
+![Home Assistant Enigma2 Preview]({{site.baseurl}}/img/posts/enigma2.png)
 
 [1]: https://home-assistant.io
 [2]: https://github.com/fbradyirl/openwebif.py
