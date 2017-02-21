@@ -31,7 +31,7 @@ I then developed a custom **media_player** component for Home Assistant, which a
 
 You can find the source for the component [on github][3]. 
 
-To install the component, you place the file `enigma2.py` inside your folder `custom_components/media_player` which is inside your Home Assistant configuration directory.
+To install the component, place the file `enigma2.py` inside a folder named  `custom_components/media_player` which is inside your Home Assistant configuration directory.
 
 Then, in your `configuration.yaml` file, add a new entry like this:
 ```yaml
