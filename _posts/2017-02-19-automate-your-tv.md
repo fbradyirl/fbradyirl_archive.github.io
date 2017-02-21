@@ -10,7 +10,15 @@ Today, I want to show you something which is not offically part of Home Assistan
 
 I developed a python pip module, called [openwebif.py][2], which interfaces with the REST APIs built into OpenWebIf. OpenWebIf is the web interface on top of all Enigma2 based receivers.
 
-I then developed a custom **media_player** component for Home Assistant,  
+I then developed a custom **media_player** component for Home Assistant, which allows basic control of the unit and the TV. The component supports:
+
+1. Power standby/wake toggle (on/off)
+2. Volume set
+3. Mute/unmute
+4. Query current program info such as:
+	- TV station active, 
+    - Programme Name & Description
+    - Picon (channel icon) for the station
 
 
 [1]: https://home-assistant.io
