@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: automate-your-tv
+title: Automate Your TV
 subtitle: Integrate your Open Source Set-top box with Home Assitant
 ---
 I have been using [Home Assistant][1] on my Raspberry Pi for the past few months. This is my DIY home automation pet project, and I will be posting more about it in future.
