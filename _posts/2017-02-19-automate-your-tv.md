@@ -4,9 +4,9 @@ published: true
 title: Automate Your TV
 subtitle: Integrate your Open Source Set-top box with Home Assitant
 ---
-I have been using [Home Assistant][1] on my Raspberry Pi for the past few months. This is my DIY home automation pet project, and I will be posting more about it in future.
+I have been using [Home Assistant][1] on my Raspberry Pi for the past few months to power my home automation. 
 
-Today, I want to show you something which is not offically part of Home Assistant, yet, and that is adding support for Enigma2 based set top box receivers. Examples include devices from Vu (Duo, Duo2, Uno, etc) and lots of manufacturers who support the open sourced images based on Enigma2, such as OpenVix and Black Hole.
+Today, I want to share with you something which is not offically part of Home Assistant, yet, and that is adding support for Enigma2 based set top box receivers. Examples include devices from Vu (Duo, Duo2, Uno, etc) and lots of manufacturers who support the open sourced images based on Enigma2, such as OpenVix and Black Hole.
 
 At present, the new component supports:
 
@@ -96,6 +96,8 @@ You could also set one to turn on a light when you turn on the TV, and vice vers
       entity_id: switch.living_room_lamp
 ```
 
+## Wrap Up
+I hope you find this component useful. I'll be looking to push this into the main Home Assistant repo soon. 
 
 
 [1]: https://home-assistant.io
