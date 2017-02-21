@@ -22,5 +22,16 @@ I then developed a custom **media_player** component for Home Assistant, which a
 
 ![Home Assistant Enigma2 Preview]({{site.baseurl}}/img/posts/enigma2.png)
 
+To install the component, you place the file `enigma2.py` inside your folder `~/custom_components/media_player` which is inside your Home Assistant configuration directory.
+
+Then, in your `configuration.yaml` file, add a new entry like this:
+```yaml
+media_player:
+   - platform: enigma2
+     host: 10.10.10.4
+     name: Vu Duo2
+     icon: mdi:satellite-variant
+```
+
 [1]: https://home-assistant.io
 [2]: https://github.com/fbradyirl/openwebif.py
