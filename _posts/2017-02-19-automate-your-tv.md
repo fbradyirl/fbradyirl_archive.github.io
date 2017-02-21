@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: automate-your-tv
 subtitle: Integrate your Open Source Set-top box with Home Assitant
 ---
