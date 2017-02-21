@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Automate Your TV
-subtitle: Integrate your Open Source Set-top box with Home Assitant
+subtitle: Integrate your Open Source Set-top box with Home Assistant
 ---
 I have been using [Home Assistant][1] on my Raspberry Pi for the past few months to power my home automation. 
 
