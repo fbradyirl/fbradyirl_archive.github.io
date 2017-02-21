@@ -8,5 +8,10 @@ I have been using [Home Assistant][1] on my Raspberry Pi for the past few months
 
 Today, I want to show you something which is not offically part of Home Assistant, yet, and that is adding support for Enigma2 based set top box receivers. Examples include devices from Vu (Duo, Duo2, Uno, etc) and lots of manufacturers who support the open sourced images based on Enigma2, such as OpenVix and Black Hole.
 
+I developed a python pip module, called [openwebif.py][2], which interfaces with the REST APIs built into OpenWebIf. OpenWebIf is the web interface on top of all Enigma2 based receivers.
+
+The 
+
 
 [1]: https://home-assistant.io
+[2]: https://github.com/fbradyirl/openwebif.py
