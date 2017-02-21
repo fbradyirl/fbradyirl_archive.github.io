@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: DIY "Upgrade" Your Home Internet Connection to LTE
+title: Automate Your TV
 tags:
   - tech
   - iot
