@@ -3,6 +3,13 @@ layout: post
 published: true
 title: Automate Your TV
 subtitle: Integrate your Open Source Set-top box with Home Assistant
+tags:
+  - tech
+  - iot
+  - home automation
+  - home assistant
+  - enigma2
+  - openvix
 ---
 I have been using [Home Assistant][1] on my Raspberry Pi for the past few months to power my home automation. 
 
