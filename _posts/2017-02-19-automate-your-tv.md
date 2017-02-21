@@ -27,7 +27,8 @@ To start, I originally developed a python pip module, called [openwebif.py][2], 
 
 I then developed a custom **media_player** component for Home Assistant, which allows basic control of the unit and the TV. 
 
-![Home Assistant Enigma2 Preview]({{site.baseurl}}/img/posts/enigma2.png)
+
+![Home Assistant Enigma2 Preview]({{site.baseurl}}/img/posts/enigma2gif.gif)
 
 You can find the source for the component [on github][3]. 
 
