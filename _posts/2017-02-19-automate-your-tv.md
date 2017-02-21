@@ -10,7 +10,7 @@ Today, I want to show you something which is not offically part of Home Assistan
 
 I developed a python pip module, called [openwebif.py][2], which interfaces with the REST APIs built into OpenWebIf. OpenWebIf is the web interface on top of all Enigma2 based receivers.
 
-The 
+I then developed a custom **media_player** component for Home Assistant,  
 
 
 [1]: https://home-assistant.io
