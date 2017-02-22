@@ -16,7 +16,7 @@ I have been using [Home Assistant][1] on my Raspberry Pi for the past few months
 
 Today, I want to share with you something which is not offically part of Home Assistant, yet, and that is adding support for Enigma2 based set top box receivers. Examples include devices from Vu (Duo, Duo2, Uno, etc) and lots of manufacturers who support the open sourced images based on Enigma2, such as OpenVix and Black Hole.
 
-At present, the new component supports:
+At present, the platform supports:
 
 1. Power standby/wake toggle (on/off)
 2. Select next/prev channel
@@ -31,9 +31,9 @@ At present, the new component supports:
 
 ![Home Assistant Enigma2 Architecture]({{site.baseurl}}/img/posts/enigma2-hass.png)
 
-To start, I originally developed a python pip module, called [openwebif.py][2], which interfaces with the REST APIs built into OpenWebIf. OpenWebIf is the web interface typically installed on all Enigma2 based receivers. By building a pip module, it removes the need to have all the REST API logic in Home Assistant, and leaves the pip module to handle those details. So if the HTTP API changes some day, the pip module can be updated without having to update the component in Home Assistant.
+To start, I originally developed a Python pip module, called [openwebif.py][2], which interfaces with the REST APIs built into OpenWebIf. OpenWebIf is the web interface typically installed on all Enigma2 based receivers. By building a pip module, it removes the need to have all the REST API logic in Home Assistant, and leaves the pip module to handle those details. So if the HTTP API changes some day, the pip module can be updated without having to update the plstform in Home Assistant.
 
-I then developed a custom **media_player** component for Home Assistant, which allows basic control of the unit and the TV. 
+I then developed a custom **media_player** platform named `enigma2` for Home Assistant, which allows basic control of the unit and the TV. 
 
 
 ![Home Assistant Enigma2 Preview]({{site.baseurl}}/img/posts/enigma2gif.gif)
