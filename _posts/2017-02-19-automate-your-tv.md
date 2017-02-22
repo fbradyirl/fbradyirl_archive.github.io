@@ -38,9 +38,9 @@ I then developed a custom **media_player** platform named `enigma2` for Home Ass
 
 ![Home Assistant Enigma2 Preview]({{site.baseurl}}/img/posts/enigma2gif.gif)
 
-You can find the source for the component [on github][3]. 
+You can find the source for the platform [on github][3]. 
 
-To install the component, place the file `enigma2.py` inside a folder named  `custom_components/media_player` which is inside your Home Assistant configuration directory.
+To install, place the file `enigma2.py` inside a folder named  `custom_components/media_player` which is inside your Home Assistant configuration directory.
 
 Then, in your `configuration.yaml` file, add a new entry like this:
 ```yaml
@@ -103,9 +103,10 @@ You could also set one to turn on a light when you turn on the TV, and vice vers
       service: homeassistant.turn_off
       entity_id: switch.living_room_lamp
 ```
+As long as you have HDMI CEC enabled in your Enigma2 image settings, your TV should turn on and off accordingly with those automations.
 
 ## Wrap Up
-I hope you find this component useful. I'll be looking to push this into the main Home Assistant repo soon. 
+I hope you find this platform useful. I'll be looking to push this into the main Home Assistant repo soon, after I add some tests to the new platform. 
 
 
 [1]: https://home-assistant.io
