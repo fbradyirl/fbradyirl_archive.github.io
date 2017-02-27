@@ -13,7 +13,7 @@ When deciding on which system to use, my requirements were that my setup be:
 3. Low(ish) cost
 4. Open-Source where possible
 
-There are so many options out there, and I must admit, that I didn't really investigate many in any real depth. [Samsung SmartThings][2] is one of these, but I saw that as a rather expensive option. Something more open, like OpenHAB, was more appealing to me. OpenHAB is built in Java, and has a large user base, but what I settled on proved to suit my needs very well.
+There are so many options out there, and I must admit, that I didn't really investigate many in any real depth. [Samsung SmartThings][2] is one of these, but I saw that as a rather expensive option. Something more open, like [OpenHAB][3], was more appealing to me. OpenHAB is built in Java, and has a large user base, but what I settled on proved to suit my needs very well.
 
 ## Home Assistant
 
@@ -21,3 +21,4 @@ When I found [Home Assistant][1], I could see that it was a Python project, with
 
 [1]: http://home-assistant.io
 [2]: https://www.smartthings.com
+[3]: http://www.openhab.org
