@@ -22,6 +22,11 @@ When I found [Home Assistant][1], I could see that it was a Python project, with
 ### Installation
 Installing Home Assistant is as easy as [a few commands][4]. The team has even built a custom Raspberry Pi OS called Hassbian, which is Raspbian with Home Assistant pre-bundled.
 
+### Configuration & Automations
+When you get it installed, you will want to configure it. It has a handy discovery mechanism, which takes a couple of minutes to auto-discover supported devices in your LAN. You will be surprised how many devices it will find. For example, last week, it detected my Apple TVs, with zero config from me!
+
+In the rest of this article, I will run through some examples of my configuration and automations around the devices.
+
 
 
 [1]: http://home-assistant.io
