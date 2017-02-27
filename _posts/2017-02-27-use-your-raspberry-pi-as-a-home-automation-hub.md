@@ -2,6 +2,14 @@
 layout: post
 published: false
 title: Use Your Raspberry Pi As A Home Automation Hub
+subtitle: 'Build your Open Source IOT hub, one piece at a time...'
+date: '2017-02-27'
+tags:
+  - iot
+  - home automation
+  - home assistant
+  - python
+  - raspberry pi
 ---
 ## Intro
 
