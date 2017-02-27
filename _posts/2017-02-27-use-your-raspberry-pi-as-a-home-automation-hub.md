@@ -45,7 +45,7 @@ Here is my config to add the router.
   interval_seconds: 45
 ```
 
-You will notice I have the values as `secret`. This is handy if you want to share your config, but keep sensitive data private. To support this, create a file called `secrets.yaml` under the root of your configuration folder, and add entries to it as follows:
+You will notice I have the values as `secret`. This is handy if you want to share your config, but keep sensitive data private. To support this, create a file called `secrets.yaml` under the root of your configuration folder, and add key-value entries to it as follows:
 
 ```yaml
 router_ip: 192.168.1.1
