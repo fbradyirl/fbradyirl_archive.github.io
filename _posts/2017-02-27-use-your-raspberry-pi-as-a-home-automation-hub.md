@@ -27,7 +27,9 @@ When you get it installed, you will want to configure it. It has a handy discove
 
 In the rest of this article, I will run through some examples of my configuration and automations around the devices.
 
+#### Device Tracking
 
+To start off, I wanted to have some kind of device tracking, to know when the house is occupied. You can use motion sensors for this, or do like I did, and hook into your home router.
 
 [1]: http://home-assistant.io
 [2]: https://www.smartthings.com
