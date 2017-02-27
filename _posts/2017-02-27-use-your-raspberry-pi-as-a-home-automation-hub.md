@@ -69,7 +69,13 @@ Now that Home Assistant can keep track of the house, lets configure some devices
 
 The Nest Thermostat is fully supported in HA. You could actually use it's tracking feature to trigger automations. For example, when the Nest goes to 'Away' mode, turn off lights in the home. 
 
+You could also use geofences to warm up your home when you leave the office.
+
 Learn how to configure [Nest here][6].
+
+#### Media Players
+
+
 
 [1]: http://home-assistant.io
 [2]: https://www.smartthings.com
