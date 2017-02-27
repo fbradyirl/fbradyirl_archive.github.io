@@ -29,9 +29,9 @@ In the rest of this article, I will run through some examples of my configuratio
 
 #### Device Tracking
 
-To start off, I wanted to have some kind of device tracking, to know when the house is occupied. You can use motion sensors for this, or do like I did, and hook into your home router. 
+To start off, I wanted to have some kind of device tracking, to know when the house is occupied. You can use motion sensors for this, or use your home router to do the tracking for you. 
 
-In my case, I am using OpenWRT on my router, and Home Assistant is able to query it for associated devices on the network. The idea here, is that when you leave the house, you leave the wifi network and you get dropped from the route `arp` table after a few minutes.
+In my case, I am using [OpenWRT][5] on my router, and Home Assistant is able to query it for associated devices on the network. The idea here, is that when you leave the house, you leave the wifi network and you get dropped from the route `arp` table after a few minutes.
 
 Here is my config to add the router.
 
@@ -55,3 +55,4 @@ router_password: mypassword123
 [2]: https://www.smartthings.com
 [3]: http://www.openhab.org
 [4]: https://home-assistant.io/getting-started/
+[5]: https://openwrt.org
