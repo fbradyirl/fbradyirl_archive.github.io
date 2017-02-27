@@ -67,8 +67,13 @@ Now that Home Assistant can keep track of the house, lets configure some devices
 
 ![Nest Platform]({{site.baseurl}}/img/posts/nest.gif)
 
+The Nest Thermostat is fully supported in HA. You could actually use it's tracking feature to trigger automations. For example, when the Nest goes to 'Away' mode, turn off lights in the home. 
+
+Learn how to configure [Nest here][6].
+
 [1]: http://home-assistant.io
 [2]: https://www.smartthings.com
 [3]: http://www.openhab.org
 [4]: https://home-assistant.io/getting-started/
 [5]: https://openwrt.org
+[6]: https://home-assistant.io/components/nest/
