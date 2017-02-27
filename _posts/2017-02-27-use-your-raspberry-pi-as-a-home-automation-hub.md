@@ -17,7 +17,9 @@ There are so many options out there, and I must admit, that I didn't really inve
 
 ## Home Assistant
 
-When I found [Home Assistant][1], I could see that it was a Python project, with a lot of positive momentum, decent documentation, and a good community vibe around it. The fact that it is written in Python appealed to me, as I have Python coding experience, so I felt I could contribute back to it easier than some others.
+When I found [Home Assistant][1], I could see that it was a Python project, with a lot of positive momentum, decent documentation, and a good community vibe around it. The fact that it is written in Python appealed to me, as I have Python coding experience, so I felt I could contribute back to it easier than some others. Also, it is very lightweight, and can run easily on a low powered pc or Raspberry Pi. Since I already had a Raspberry Pi gathering dust, I decided to give it a try.
+
+
 
 [1]: http://home-assistant.io
 [2]: https://www.smartthings.com
