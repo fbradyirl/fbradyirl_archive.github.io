@@ -33,12 +33,22 @@ To start off, I wanted to have some kind of device tracking, to know when the ho
 
 In my case, I am using OpenWRT on my router, and Home Assistant is able to query it for associated devices on the network. The idea here, is that when you leave the house, you leave the wifi network and you get dropped from the route `arp` table after a few minutes.
 
+Here is my config to add the router.
+
 ```yaml
 - platform: luci
   host: !secret router_ip
   username: !secret router_username
   password: !secret router_password
   interval_seconds: 45
+```
+
+You will notice I have the values as `secret`. This is handy if you want to share your config, but keep sensitive data private. To support this, create a file called `secrets.yaml` under the root of your configuration folder, and add entries to it as follows:
+
+```yaml
+router_ip: 192.168.1.1
+router_username: admin
+router_password: mypassword123
 ```
 
 [1]: http://home-assistant.io
