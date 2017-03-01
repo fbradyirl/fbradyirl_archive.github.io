@@ -60,4 +60,4 @@ For me, the difference between using an external antenna and not, is the differe
 
 Again, play around with the positioning of the antenna until you get the best signal possible.
 
-Good luck with it! You can always give me a shout [on Twitter](https://twitter.com/finbarrbrady) if you have any questions.
+Good luck with it! You can always give me a shout [on Twitter](https://twitter.com/finbarrbrady) or below in the comments, if you have any questions.
