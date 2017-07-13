@@ -1,16 +1,40 @@
 ---
 layout: post
 published: false
-title: ''
+title: Using Your Own Router for Eir eFibre
 ---
 ## Replacing the Eir F2000 Router
 
-Recently, I was lucky enough to get Fibre To The Home (FTTH) connected at my abode, and was kindly provided a wireless router from Eir. It is the Huawei F2000.
+Recently, I was lucky enough to get Fibre To The Home (FTTH) connected at my abode, and was kindly provided a wireless router from Eir. It is the Huawei F2000. The F2000 is reported to have _lots_ of issues with wifi, so you might look to replace it with something else, right? Yes. Good idea.
 
-From the user guide:
+The F2000 user guide states:
 
 > The eir F2000 eir Fibre Modem is a next generation voice gateway that supports very-high-data-rate digital subscriber line 2 (VDSL2) uplink, one Giga Ethernet uplink port and 4 Giga Ethernet downlink ports. 
 
+That all sounds great, however the VDSL2 part is overkill for FTTH. All that is connected to it is a single ethernet cable from the Eir installed Optical Network Terminal (ONT). It is the one on the left here:
 
+![]({{site.baseurl}}/img/eirinstalled.jpg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+That yellow cable just plugs into the WAN port of the F2000. So this is basically just IP over Ethernet. This means you can use any router you like instead of the F2000. No DSL/VDSL modem required. No PPPoe or other acronym crunching protocol needed. Just a bog standard Ethernet cable and a router which supports negiotating an IP address via DHCP (AKA every router made in recent history).
+
+So, for me, I happen to have a Linksys E4200 which I flashed OpenWRT/LEDE onto. I already had this setup with various bits and pieces I want. To connect the new fibre internet to it was simple (once I found out how!).
+
+Basically you just need two things:
+1. Set the WAN connection to be a DHCP client
+2. set the VLAN (802.1q) tag to 10
+
+In OpenWRT/LEDE all the config that is required is the following. Edit `/etc/config/network/` as follows:
+
+```
+config switch_vlan
+	option device 'switch0'
+	option vlan '10'
+	option ports '4t 6t'
+
+config interface 'wan'
+	option proto 'dhcp'
+	option ifname 'eth1.10'
+```
+
+And restart. That's it! You will see now that your wan interface will pick up a public IP address. Now throw that F2000 in the cupboard. 
+
