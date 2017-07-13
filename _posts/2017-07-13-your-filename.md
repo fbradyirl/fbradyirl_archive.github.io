@@ -37,6 +37,8 @@ In OpenWRT/LEDE all you need to do to make this happen is the following. Edit `/
 config switch_vlan
 	option device 'switch0'
 	option vlan '10'
+    # port 4 is the wan port on my router
+    # 6 stands for the eth1 interface
 	option ports '4t 6t'
 
 config interface 'wan'
