@@ -23,15 +23,15 @@ That all sounds great, however the VDSL2 part is overkill for FTTH. All that is 
 
 ![]({{site.baseurl}}/img/eirinstalled.jpg)
 
-That yellow cable just plugs into the WAN port of the F2000. So this is basically just IP over Ethernet. This means you can use any router you like instead of the F2000. No DSL/VDSL modem required. No PPPoe or other acronym crunching protocol needed. Just a bog standard Ethernet cable and a router which supports negiotating an IP address via DHCP (AKA every router made in recent history).
+That yellow cable just plugs into the WAN port of the F2000. So this is basically just IP over Ethernet. This means you can use any router you like instead of the F2000. No DSL/VDSL modem required. No PPPoe or other acronym crunching protocol needed. Just a bog standard Ethernet cable and a router which supports negiotating an IP address via DHCP (AKA every router made ever).
 
-So, for me, I happen to have a Linksys E4200 which I flashed OpenWRT/LEDE onto. I already had this setup with various bits and pieces I want. To connect the new fibre internet to it was simple (once I found out how!).
+So, for me, I happen to have a [Linksys E4200v2](https://wiki.openwrt.org/toh/linksys/ea4500) which I flashed [OpenWRT/LEDE](http://lede-project.org) onto. I already had this setup with various bits and pieces I want. To connect the new fibre internet to it was simple (once I found out how!).
 
 Basically you just need two things:
 1. Set the WAN connection to be a DHCP client
 2. set the VLAN (802.1q) tag to 10
 
-In OpenWRT/LEDE all the config that is required is the following. Edit `/etc/config/network/` as follows:
+In OpenWRT/LEDE all the config that is required is the following. Edit `/etc/config/network` as follows:
 
 ```
 config switch_vlan
