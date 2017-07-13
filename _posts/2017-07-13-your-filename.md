@@ -6,14 +6,14 @@ date: '2017-07-13'
 tags:
   - >-
     eFibre - Eir - Eircom - FTTH - OpenWRT - LEDE - 3rd Party Router - PPPoe -
-    IPoE - Huawei - F2000
+    IPoE - Huawei - F2000 - HG659b
 subtitle: >-
   Having wifi issues with your Huawei F2000? Might be time to look for an
   alternative...
 ---
 ## Replacing the Eir F2000 Router
 
-Recently, I was lucky enough to get Fibre To The Home (FTTH) connected at my abode, and was kindly provided a wireless router from Eir. It is the Huawei F2000. The F2000 is reported to have _lots_ of issues with wifi, so you might look to replace it with something else, right? Yes. Good idea.
+Recently, I was lucky enough to get Fibre To The Home (FTTH) connected at my abode, and was kindly provided a wireless router from Eir. It is the Huawei F2000 (HG659b). The F2000 is reported to have _lots_ of issues with wifi, so you might look to replace it with something else, right? Yes. Good idea.
 
 The F2000 user guide states:
 
