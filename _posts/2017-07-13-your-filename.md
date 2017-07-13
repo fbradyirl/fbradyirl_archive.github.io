@@ -33,7 +33,7 @@ Basically you just need two things:
 
 In OpenWRT/LEDE all you need to do to make this happen is the following. Edit `/etc/config/network` as follows:
 
-```
+```yaml
 config switch_vlan
 	option device 'switch0'
 	option vlan '10'
