@@ -1,7 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 title: Using Your Own Router for Eir eFibre
+date: '2017-07-13'
+tags:
+  - >-
+    eFibre - Eir - Eircom - FTTH - OpenWRT - LEDE - 3rd Party Router - PPPoe -
+    IPoE - Huawei - F2000
+subtitle: >-
+  Having wifi issues with your Huawei F2000? Might be time to look for an
+  alternative...
 ---
 ## Replacing the Eir F2000 Router
 
