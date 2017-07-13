@@ -31,7 +31,7 @@ Basically you just need two things:
 1. Set the WAN connection to be a DHCP client
 2. set the VLAN (802.1q) tag to 10
 
-In OpenWRT/LEDE all the config that is required is the following. Edit `/etc/config/network` as follows:
+In OpenWRT/LEDE all you need to do to make this happen is the following. Edit `/etc/config/network` as follows:
 
 ```
 config switch_vlan
