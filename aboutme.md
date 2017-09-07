@@ -17,10 +17,8 @@ I have worked in Ericsson, Nortel and Cisco, among others.
 I am a husband and father, and am interested in cycling, soccer, beer and movies.
 
 
-**Bitcoin Address:**
-`1MfTGP5wYeUoeynD88rdBjEgXBhCMmvAVT`
+**Bitcoin Address:**	`1MfTGP5wYeUoeynD88rdBjEgXBhCMmvAVT`
 
-**Ether Wallet:**
-`0x4260cf5035940fab5F71a4d8F61Ea33F230d917d`
+**Ether Wallet:**		`0x4260cf5035940fab5F71a4d8F61Ea33F230d917d`
 
 
