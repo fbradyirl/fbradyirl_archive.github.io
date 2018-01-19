@@ -16,8 +16,8 @@ tags:
   - software update
   - ST.VFSDIA.EU.E517.160926
 subtitle: >-
-  Details on how you can manually install the latest software on your European
-  Hyundai i40 to enable Apple Carplay and Android Auto support.
+  Learn how you can install the latest software on your European Hyundai i40 to
+  give you new features
 date: '2018-01-19'
 ---
 ## DIY Software Update
