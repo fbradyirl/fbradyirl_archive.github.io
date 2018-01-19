@@ -58,7 +58,7 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 9. **Important:** Start your engine and leave it running for all the rest of the procedure
 10. Insert the USB stick into the usb slot in front of the gear stick.
 11. On your car touchscreen, go to `All Menus`>`System Info`(scroll to the bottom to see that) and press the `Update` button.
-12. Confirm the popup by pressing the 'OK' button.
+12. Confirm the popup by pressing the `OK` button.
 13. Sit back and relax. The update will take 30-40 minutes in total. Ensure you leave the engine running all the time during the update.
 14. After about 10 minutes, you may see a system error (code `109`). As in the youtube video, you can remove the USB stick at this point.
 15. Now use your ballpoint pen to press the reset button for 5 seconds. The reset button is tiny and you can find it just to the right of the CD slot above the touchscreen.
