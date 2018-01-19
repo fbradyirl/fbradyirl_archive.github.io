@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Install Apple Carplay & Android Auto on your Hyundai i40 (Software Upgrade)
+title: Install Apple Carplay & Android Auto on your Hyundai i40
 tags:
   - apple carplay
   - hyundai i40
@@ -15,9 +15,7 @@ tags:
   - firmware upgrade
   - software update
   - ST.VFSDIA.EU.E517.160926
-subtitle: >-
-  Learn how you can install the latest software on your European Hyundai i40 to
-  give you new features
+subtitle: Learn how you can install the latest software on your i40
 date: '2018-01-19'
 ---
 ## DIY Software Update
