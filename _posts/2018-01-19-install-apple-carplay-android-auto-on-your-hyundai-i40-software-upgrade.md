@@ -29,7 +29,7 @@ So I rang my local dealer here in Galway, and they gave me a quote for €100 to
 
 As a software engineer myself, I thought I'd search the web for a way to carry this out myself, since I was pretty sure that once I could **get** the firmware files, I would be able to figure out **how** to install the update.
 
-I eventually came across a Russian forum, where a link to download the firmware was posted, along with some instructions. I thought it might be good for me to re-post those instructions in english here for anyone wanting to do it. Here goes...
+I eventually came across a Russian [forum](https://www.drive2.ru/l/492401715044155399), where a link to download the firmware was posted, along with some instructions. I thought it might be good for me to re-post those instructions in english here for anyone wanting to do it. Here goes...
 
 ## Disclaimer
 **WARNING: If you carry out this car firmware upgrade, you do so at your own risk. This may void you warranty. Please do your own research if you are worried about this. **
