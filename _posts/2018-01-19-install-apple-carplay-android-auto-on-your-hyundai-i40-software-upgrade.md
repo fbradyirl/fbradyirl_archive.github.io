@@ -30,6 +30,15 @@ As a software engineer myself, I thought I'd search the web for a way to carry t
 
 I eventually came across a Russian forum, where a link to download the firmware was posted, along with some instructions. I thought it might be good for me to re-post those instructions in english here for anyone wanting to do it. Here goes...
 
+## What you will need
+- A USB Stick (1GB or more will do). Formatted for FAT32.
+- A ballpoint pen.
+- A PC to download the firmware.
+
+## Software Update Procedure
+
+**Note:** I took a [video of the in-car parts of the procedure and posted to youtube here](https://youtu.be/ssNr4ZbwEnU), which may be of help. 
+
 1. Download and [extract the firmware files from here](https://yadi.sk/d/2P-O8kHN3RNyd5).
 2. You will see 4 folders: `st_vf`, `st_vfia`, `st_vfsd` and `st_vfsdia` 
 3. On your car touchscreen, go to "All Menus">"System Info"(scroll to the bottom to see that) and then take note of the **"S/W ver."** field. 
@@ -41,6 +50,11 @@ I eventually came across a Russian forum, where a link to download the firmware 
 5. Get a USB Stick, and ensure it is formatted as FAT32 (most memory sticks already are).
 6. Copy the `update` folder directly over to the USB Stick. _note that you should **not** use the car navigation SD card for this, as it will not work for a system update._
 7. At this point, when you look at the USB drive on your PC, you should see the `update` folder at the root of the drive.
+
 8. Eject the USB stick from your PC and go to the car.
 9. **Important:** Start your engine and leave it running for all the rest of the procedure
-10. 
+10. Insert the USB stick into the usb slow in front of the gear stick.
+11. On your car touchscreen, go to "All Menus">"System Info"(scroll to the bottom to see that) and press the 'Update' button.
+12. Confirm the popup by pressing the 'OK' button.
+13. Sit back and relax. The update will take 30-40 minutes in total. Ensure you leave the engine running all the time during the update.
+14. After about 10 minutes, you may see a system error (code 109). As in the youtube video, 
