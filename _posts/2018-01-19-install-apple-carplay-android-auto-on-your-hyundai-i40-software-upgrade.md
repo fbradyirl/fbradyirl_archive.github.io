@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Install Apple Carplay & Android Auto on your Hyundai i40 (Software Upgrade)
 tags:
   - apple carplay
