@@ -42,6 +42,7 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 ## System Update Procedure
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ssNr4ZbwEnU/0.jpg)](https://www.youtube.com/watch?v=ssNr4ZbwEnU)
+
 **Note:** I took a [video of the in-car parts of the procedure and posted to youtube here](https://youtu.be/ssNr4ZbwEnU), which may be of help. 
 
 1. Download and [extract the firmware files from here](https://yadi.sk/d/2P-O8kHN3RNyd5). _Also [backed-up here](https://drive.google.com/file/d/1HmzoOO1BoCplOSoNuhXOsZouI2vDoO-a/view?usp=sharing)._
