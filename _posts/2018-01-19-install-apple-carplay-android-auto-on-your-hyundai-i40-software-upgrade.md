@@ -53,6 +53,7 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 1. Download and [extract the firmware files from here](https://yadi.sk/d/2P-O8kHN3RNyd5). _Also [backed-up here](https://drive.google.com/file/d/1HmzoOO1BoCplOSoNuhXOsZouI2vDoO-a/view?usp=sharing)._
 2. You will see 4 folders: `st_vf`, `st_vfia`, `st_vfsd` and `st_vfsdia` 
 3. To know which one to open, take a look at the version on your vehicle at present.
+![]({{site.baseurl}}/img/version_pre_carplay.png)
     - Note the letters after `ST.`
     - That will determine which folder you want to use.
 4. For me it was `vfsdia`. So, I looked inside the `st_vfsdia` folder and saw an `update` folder.
