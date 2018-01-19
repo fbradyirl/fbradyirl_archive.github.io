@@ -39,7 +39,7 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 - A ballpoint pen.
 - A PC to download the firmware.
 
-## Software Update Procedure
+## System Update Procedure
 
 **Note:** I took a [video of the in-car parts of the procedure and posted to youtube here](https://youtu.be/ssNr4ZbwEnU), which may be of help. 
 
