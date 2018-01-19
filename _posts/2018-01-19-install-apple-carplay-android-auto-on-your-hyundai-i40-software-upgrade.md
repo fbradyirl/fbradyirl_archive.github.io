@@ -45,7 +45,7 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 
 1. Download and [extract the firmware files from here](https://yadi.sk/d/2P-O8kHN3RNyd5). _Also [backed-up here](https://drive.google.com/file/d/1HmzoOO1BoCplOSoNuhXOsZouI2vDoO-a/view?usp=sharing)._
 2. You will see 4 folders: `st_vf`, `st_vfia`, `st_vfsd` and `st_vfsdia` 
-3. On your car touchscreen, go to "All Menus">"System Info"(scroll to the bottom to see that) and then take note of the **"S/W ver."** field. 
+3. On your car touchscreen, go to `All Menus`>`System Info`(scroll to the bottom to see that) and then take note of the **"S/W ver."** field. 
 	- The version should begin with `ST.XXXX.`
     - Note the letters after `ST.`
     - That will determine which folder you want to use.
@@ -57,10 +57,10 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 8. Eject the USB stick from your PC and go to the car.
 9. **Important:** Start your engine and leave it running for all the rest of the procedure
 10. Insert the USB stick into the usb slot in front of the gear stick.
-11. On your car touchscreen, go to "All Menus">"System Info"(scroll to the bottom to see that) and press the 'Update' button.
+11. On your car touchscreen, go to `All Menus`>`System Info`(scroll to the bottom to see that) and press the `Update` button.
 12. Confirm the popup by pressing the 'OK' button.
 13. Sit back and relax. The update will take 30-40 minutes in total. Ensure you leave the engine running all the time during the update.
-14. After about 10 minutes, you may see a system error (code 109). As in the youtube video, you can remove the USB stick at this point.
+14. After about 10 minutes, you may see a system error (code `109`). As in the youtube video, you can remove the USB stick at this point.
 15. Now use your ballpoint pen to press the reset button for 5 seconds. The reset button is tiny and you can find it just to the right of the CD slot above the touchscreen.
 16. The reset will reboot the system and continues the upgrade. The USB stick is no longer needed from now on, so you can put it away in your pocket.
 17. The update will take another 20-30 minutes, so head away and grab a cup of tea.
