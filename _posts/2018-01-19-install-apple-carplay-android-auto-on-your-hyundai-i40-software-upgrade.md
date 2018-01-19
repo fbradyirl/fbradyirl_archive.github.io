@@ -47,7 +47,7 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 2. You will see 4 folders: `st_vf`, `st_vfia`, `st_vfsd` and `st_vfsdia` 
 3. On your car touchscreen, go to "All Menus">"System Info"(scroll to the bottom to see that) and then take note of the **"S/W ver."** field. 
 	- The version should begin with `ST.XXXX.`
-    - See what letters are there after `ST.`
+    - Note the letters after `ST.`
     - That will determine which folder you want to use.
     
 4. For me it was `vfsdia` so I looked inside the `st_vfsdia` folder and saw an `update` folder.
