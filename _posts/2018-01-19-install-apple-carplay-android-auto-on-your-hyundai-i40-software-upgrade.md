@@ -54,7 +54,6 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 5. Insert your USB Stick into your PC, and ensure it is formatted as FAT32 (most memory sticks already are).
 6. Copy the `update` folder directly over to the USB Stick. _note that you should **not** use the car navigation SD card for this, as it will not work for a system update._
 7. At this point, when you look at the USB drive on your PC, you should see the `update` folder at the root of the drive.
-
 8. Eject the USB stick from your PC and go to the car.
 9. **Important:** Start your engine and leave it running for all the rest of the procedure
 10. Insert the USB stick into the usb slow in front of the gear stick.
