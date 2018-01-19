@@ -56,7 +56,7 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 7. At this point, when you look at the USB drive on your PC, you should see the `update` folder at the root of the drive.
 8. Eject the USB stick from your PC and go to the car.
 9. **Important:** Start your engine and leave it running for all the rest of the procedure
-10. Insert the USB stick into the usb slow in front of the gear stick.
+10. Insert the USB stick into the usb slot in front of the gear stick.
 11. On your car touchscreen, go to "All Menus">"System Info"(scroll to the bottom to see that) and press the 'Update' button.
 12. Confirm the popup by pressing the 'OK' button.
 13. Sit back and relax. The update will take 30-40 minutes in total. Ensure you leave the engine running all the time during the update.
