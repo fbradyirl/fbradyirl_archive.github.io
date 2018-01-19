@@ -50,7 +50,7 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
     - Note the letters after `ST.`
     - That will determine which folder you want to use.
     
-4. For me it was `vfsdia` so I looked inside the `st_vfsdia` folder and saw an `update` folder.
+4. For me it was `vfsdia`. So, I looked inside the `st_vfsdia` folder and saw an `update` folder.
 5. Get a USB Stick, and ensure it is formatted as FAT32 (most memory sticks already are).
 6. Copy the `update` folder directly over to the USB Stick. _note that you should **not** use the car navigation SD card for this, as it will not work for a system update._
 7. At this point, when you look at the USB drive on your PC, you should see the `update` folder at the root of the drive.
