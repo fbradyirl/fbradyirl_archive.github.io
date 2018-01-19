@@ -21,7 +21,7 @@ subtitle: >-
 date: '2018-01-19'
 ---
 ## DIY Software Update
-![useful image]({{ site.url }}/img/apple-carplay-ios.png)
+![]({{site.baseurl}}/img/apple-carplay-ios.png)
 
 Recently, I began looking into how I could get Apple Carplay installed on my 2016 Hyundai i40. I could see Hyundai UK [were tweeting](https://twitter.com/Hyundai_UK/status/881783938192224257) that a free software update was available for any SE Nav model since Nov 2015. However, unlike our US counterparts, this was not a publically accessible upgrade. It must be done by a Hyundai dealer.
 
