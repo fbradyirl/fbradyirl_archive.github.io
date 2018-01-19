@@ -38,6 +38,11 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 - A USB Stick (1GB or more will do). Formatted for FAT32.
 - A ballpoint pen.
 - A PC to download the firmware.
+- The current version of software on your vehicle. 
+	- To find this out, on your car touchscreen, go to `All Menus`>`System Info`(scroll to the bottom to see that) and then take note of the **"S/W ver."** field. 
+	- The version should begin with `ST.XXXX.`
+    - Note the letters after `ST.`
+    - That will determine which folder you want to use in step 4 below...
 
 ## System Update Procedure
 
@@ -47,11 +52,9 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 
 1. Download and [extract the firmware files from here](https://yadi.sk/d/2P-O8kHN3RNyd5). _Also [backed-up here](https://drive.google.com/file/d/1HmzoOO1BoCplOSoNuhXOsZouI2vDoO-a/view?usp=sharing)._
 2. You will see 4 folders: `st_vf`, `st_vfia`, `st_vfsd` and `st_vfsdia` 
-3. On your car touchscreen, go to `All Menus`>`System Info`(scroll to the bottom to see that) and then take note of the **"S/W ver."** field. 
-	- The version should begin with `ST.XXXX.`
+3. To know which one to open, take a look at the version on your vehicle at present.
     - Note the letters after `ST.`
     - That will determine which folder you want to use.
-    
 4. For me it was `vfsdia`. So, I looked inside the `st_vfsdia` folder and saw an `update` folder.
 5. Insert your USB Stick into your PC, and ensure it is formatted as FAT32 (most memory sticks already are).
 6. Copy the `update` folder directly over to the USB Stick. _note that you should **not** use the car navigation SD card for this, as it will not work for a system update._
@@ -62,11 +65,12 @@ I eventually came across a Russian [forum](https://www.drive2.ru/l/4924017150441
 11. On your car touchscreen, go to `All Menus`>`System Info`(scroll to the bottom to see that) and press the `Update` button.
 12. Confirm the popup by pressing the `OK` button.
 13. Sit back and relax. The update will take 30-40 minutes in total. Ensure you leave the engine running all the time during the update.
-14. After about 10 minutes, you may see a system error (code `109`). As in the youtube video, you can remove the USB stick at this point.
-15. Now use your ballpoint pen to press the reset button for 5 seconds. The reset button is tiny and you can find it just to the right of the CD slot above the touchscreen.
-16. The reset will reboot the system and continues the upgrade. The USB stick is no longer needed from now on, so you can put it away in your pocket.
-17. The update will take another 20-30 minutes, so head away and grab a cup of tea.
+14. After about 10 minutes, you may see a system error (code `109`), as I did. 
+	- You need to remove the USB stick at this point.
+	- Now use your ballpoint pen to press the reset button for 5 seconds. The reset button is tiny and you can find it just to the right of the CD slot above the touchscreen.
+15. The reset will reboot the system and continues the upgrade. The USB stick is no longer needed from now on, so you can put it away in your pocket.
+16. The update will take another 20-30 minutes, so head away and grab a cup of tea.
 
 In the end, you will have the latest firmware installed and you can plug in your smartphone to enjoy Android Auto or Apple Carplay.
 
-**Note** I take no credit whatsoever for the firmware. It was not created by me. I simply downloaded it and followed Google translated instructions from users [@Sernaiko](https://www.drive2.ru/users/sernaiko/) and [@raler](https://www.drive2.ru/users/raler/) over at [drive2.ru](https://www.drive2.ru/l/492401715044155399/)
+**Note** I take no credit whatsoever for the firmware. It was not created by me. I simply downloaded it and followed Google translated instructions from users [@Sernaiko](https://www.drive2.ru/users/sernaiko/) and [@raler](https://www.drive2.ru/users/raler/) over at [drive2.ru](https://www.drive2.ru/l/492401715044155399/). Thank you to those guys for sharing the details on how this can be done.
