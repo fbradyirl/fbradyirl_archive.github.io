@@ -30,7 +30,7 @@ As a software engineer myself, I thought I'd search the web for a way to carry t
 I eventually came across a Russian [forum](https://www.drive2.ru/l/492401715044155399), where a link to download the firmware was posted, along with some instructions. I thought it might be good for me to re-post those instructions in english here for anyone wanting to do it. Here goes...
 
 ## Disclaimer
-**WARNING: If you carry out this car firmware upgrade, you do so at your own risk. This may void you warranty. Please do your own research if you are worried about this.**
+**WARNING: If you carry out this car firmware upgrade, you do so at your own risk.**
 
 ## What you will need
 - A USB Stick (1GB or more will do). Formatted for FAT32.
