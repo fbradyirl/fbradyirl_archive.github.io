@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Install Apple Carplay & Android Auto on your Hyundai i40
+title: DIY Install Apple Carplay & Android Auto on your Hyundai i40
 tags:
   - apple carplay
   - hyundai i40
@@ -18,7 +18,6 @@ tags:
 subtitle: Learn how you can install the latest software on your i40
 date: '2018-01-19'
 ---
-## DIY Software Update
 ![]({{site.baseurl}}/img/apple-carplay-ios.png)
 
 Recently, I began looking into how I could get Apple Carplay installed on my 2016 Hyundai i40. I could see Hyundai UK [were tweeting](https://twitter.com/Hyundai_UK/status/881783938192224257) that a free software update was available for any SE Nav model since Nov 2015. However, unlike our US counterparts, this was not a publically accessible upgrade. It must be done by a Hyundai dealer.
@@ -27,10 +26,10 @@ So I rang my local dealer here in Galway, and they gave me a quote for €100 to
 
 As a software engineer myself, I thought I'd search the web for a way to carry this out myself, since I was pretty sure that once I could **get** the firmware files, I would be able to figure out **how** to install the update.
 
-I eventually came across a Russian [forum](https://www.drive2.ru/l/492401715044155399), where a link to download the firmware was posted, along with some instructions. I thought it might be good for me to re-post those instructions in english here for anyone wanting to do it. Here goes...
+I eventually came across a [forum](https://www.drive2.ru/l/492401715044155399), where a link to download the dealer firmware was posted, along with some instructions. I thought it might be good for me to re-post those instructions in english here for anyone wanting to do it. Here goes...
 
 ## Disclaimer
-**WARNING: If you carry out this car firmware upgrade, you do so at your own risk.**
+**WARNING: If you carry out this car firmware upgrade, you do so at your own risk. Update: according to the forum auther, [@Sernaiko](https://www.drive2.ru/users/sernaiko/), this is the original Hyundai firmware, and has not been modified in any way, so, in theory, the risk should be minimal.**
 
 ## What you will need
 - A USB Stick (1GB or more will do). Formatted for FAT32.
