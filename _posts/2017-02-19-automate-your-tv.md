@@ -30,6 +30,7 @@ At present, the platform supports:
 ## How does it work?
 
 ![Home Assistant Enigma2 Architecture]({{site.baseurl}}/img/posts/enigma2-hass.png)
+**note: Component should be worded 'Platform' in the diagram**
 
 To start, I originally developed a Python pip module, called [openwebif.py][2], which interfaces with the REST APIs built into OpenWebIf. OpenWebIf is the web interface typically installed by default on all Enigma2 based receivers. By building a pip module, it removes the need to have all the REST API logic in Home Assistant, and leaves the pip module to handle those details. So if the HTTP API changes some day, the pip module can be updated without having to update the platform in Home Assistant.
 
