@@ -48,7 +48,6 @@ media_player:
    - platform: enigma2
      host: 10.10.10.4
      name: Vu Duo2
-     icon: mdi:satellite-variant
 ```
 
 Now that it is configured, you can add some automations around this. For example, I have one which turns off the TV when everyone leaves home.
@@ -111,4 +110,4 @@ I hope you find this platform useful. I'll be looking to push this into the main
 
 [1]: https://home-assistant.io
 [2]: https://github.com/fbradyirl/openwebif.py
-[3]: https://github.com/fbradyirl/home_assistant_custom_components
+[3]: https://github.com/home-assistant/home-assistant/pull/21271/files
