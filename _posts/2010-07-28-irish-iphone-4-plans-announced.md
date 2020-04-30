@@ -4,16 +4,16 @@ author: fin
 layout: post
 permalink: /2010/07/irish-iphone-4-plans-announced/
 featured_img:
-  - http://finbarrbrady.com/wp-content/uploads/2010/07/greenshot_2010-07-29_09-05-39.png
+  - http://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-29_09-05-39.png
 onswipe_thumb:
-  - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/07/greenshot_2010-07-29_09-13-05.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-29_09-13-05.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
 Today, 3 of the major Irish networks, [Vodafone][1], [O2][2] and [Three][3], have released details of their iPhone 4 prices and plans.<!--more Get better service, and pay less--> They are all very different in their pricing approach, but Three seem to be getting the best response with their new tariffs.
 
 <p style="text-align: center;">
-  <a rel="shadowbox" href="http://finbarrbrady.com/wp-content/uploads/2010/07/greenshot_2010-07-29_09-13-05.png"><img class="size-full wp-image-459 aligncenter" title="Comparison Chart" src="http://finbarrbrady.com/wp-content/uploads/2010/07/greenshot_2010-07-29_09-05-39.png" alt="" width="640" height="301" /></a>
+  <a rel="shadowbox" href="http://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-29_09-13-05.png"><img class="size-full wp-image-459 aligncenter" title="Comparison Chart" src="http://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-29_09-05-39.png" alt="" width="640" height="301" /></a>
 </p>
 
 <p style="text-align: center;">

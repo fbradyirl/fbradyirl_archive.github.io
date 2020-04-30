@@ -4,15 +4,15 @@ author: fin
 layout: post
 permalink: /2010/10/mac-app-store-users-developers/
 featured_img:
-  - http://finbarrbrady.com/wp-content/uploads/2010/10/appstore_overview20101020.jpg
+  - http://finbarr.dev/wp-content/uploads/2010/10/appstore_overview20101020.jpg
 onswipe_thumb:
-  - 'http://finbarrbrady.com/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarrbrady.com/wp-content/uploads/2010/10/appstore_update20101020.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2010/10/appstore_update20101020.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
 Apple yesterday announced that they are bringing an [App Store][1] to the Mac. Coming in 3 months, the Mac App Store will be available to existing Snow Leopard users, allowing them to quickly browse the market, read reviews, view screenshots and purchase both free and paid apps.
 
-<img class="aligncenter size-full wp-image-510" title="appstore_overview20101020" src="http://finbarrbrady.com/wp-content/uploads/2010/10/appstore_overview20101020.jpg" alt="" width="490" height="396" />
+<img class="aligncenter size-full wp-image-510" title="appstore_overview20101020" src="http://finbarr.dev/wp-content/uploads/2010/10/appstore_overview20101020.jpg" alt="" width="490" height="396" />
 
 The system will be very similar to the iOS App Store but will lead to a fundamental change in the way desktop users source their applications.
 
@@ -20,7 +20,7 @@ Here are some of the key points:
 
   * *Developers can distribute their applications via the Mac App Store AND via traditional means such as from their website or using optical media.*
   * *Licensing of applications will extend to all of the users Macs.* E.g. buy once, run on every Mac in the house. This could be a deal breaker for many firms that rely on complex licensing systems (like a family pack), or who want to implement their own DRM.
-  * <img class="alignright size-full wp-image-518" title="appstore_update20101020" src="http://finbarrbrady.com/wp-content/uploads/2010/10/appstore_update20101020.jpg" alt="" width="106" height="99" />*Users will be notified of app updates automatically*. It remains to be seen if developers will be allowed to charge for major revisions of their software (unlike iOS). Again, this could be a deal breaker.
+  * <img class="alignright size-full wp-image-518" title="appstore_update20101020" src="http://finbarr.dev/wp-content/uploads/2010/10/appstore_update20101020.jpg" alt="" width="106" height="99" />*Users will be notified of app updates automatically*. It remains to be seen if developers will be allowed to charge for major revisions of their software (unlike iOS). Again, this could be a deal breaker.
   * *Applications must be built using Apple own tools (XCode), and must not be programmed in Java or Rosetta (legacy) technologies.* This is fair enough, and to be expected, given Apples ignorance towards Java in the past 3-4 years. Also, to put the final nail in the Java/Apple coffin, they stated yesterday in the Java &#8216;Update 3&#8217; release notes, that Java &#8220;may be removed from future versions of Mac OS X.&#8221;
   * *The same 70% (developer) / 30% (Apple) split applies on sales in the store.* No fee for free applications.
   * *Apps that use private APIs, crash,  will be rejected.*
