@@ -43,7 +43,7 @@ avatar: "/img/colours.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Finbarr Brady
-  email: "finbarr@finbarr.dev"
+  # email: "finbarr@finbarr.dev"
   facebook: yourname  # eg. daattali
   github: fbradyirl    # eg. daattali
   twitter: finbarrbrady   # eg. daattali
