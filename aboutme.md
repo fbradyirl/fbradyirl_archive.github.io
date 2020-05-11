@@ -6,9 +6,9 @@ published: true
 image: /img/fin.png
 ---
 
-I have been working in software engineering for over 10 years. Using agile, writing code, while placing a large focus on quality. More recently, I have moved into more _dev-opsy_ type projects, focusing on microservices and web frontend technologies for the [Cisco Spark platform](https://developer.ciscospark.com). 
+I have been working in software engineering since 2003. Today I am working with Cisco on the [Cisco Webex Teams platform](https://developer.webex.com). Using agile, writing code, while placing a large focus on quality. In more recent years, I have been expanded also into _dev-ops_ roles, using Google Cloud Platform, containers, Kubernetes, pipeline as code. A lot of what I do is to make developers lives easier by automating the normally manual tasks and increasing the speed in which good software can be delivered to the end users.
 
-My skillsets include Java, Python, Angular JS, XCode, Objective-C, Cocoa plus more. I've been told that I'm really good at ramping on new tools/techniques fast. 
+My skillsets include Java, Python, 🐳 Docker, Jenkins, Kubernetes + more.
 
 ### my history
 
