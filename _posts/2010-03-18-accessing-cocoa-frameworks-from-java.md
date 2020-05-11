@@ -19,7 +19,7 @@ Rococoa is a generic Java binding to the Mac Objective-C object system. It allow
 For example, for class ABPerson, we can simply create the following Java class:
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-21" title="ABPerson Java" src="http://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_15-53-53.png" alt="" width="576" height="295" />
+  <img class="aligncenter size-full wp-image-21" title="ABPerson Java" src="https://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_15-53-53.png" alt="" width="576" height="295" />
 </p>
 
 You can see from above, any methods that I need from this class are declared as public abstract methods.
@@ -29,31 +29,31 @@ Do the same for class ABAddressBook. Now we can start to access contacts!
 First we load the native library &#8216;AddressBook&#8217;
 
 <p style="padding-left: 30px;">
-  <img class="size-full wp-image-26 alignnone" title="Load native Lib" src="http://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-06-50.png" alt="" width="445" height="90" />
+  <img class="size-full wp-image-26 alignnone" title="Load native Lib" src="https://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-06-50.png" alt="" width="445" height="90" />
 </p>
 
 Then we get a handle on the Address Book shared instance, and end up with an array of people objects.
 
 <p style="padding-left: 30px;">
-  <img class="size-full wp-image-22 alignnone" title="Get the shared address Book" src="http://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-00-05.png" alt="" width="493" height="32" />
+  <img class="size-full wp-image-22 alignnone" title="Get the shared address Book" src="https://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-00-05.png" alt="" width="493" height="32" />
 </p>
 
 Now we loop through all the contacts
 
 <p style="padding-left: 30px;">
-  <img class="size-full wp-image-23 alignnone" title="Loop" src="http://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-00-29.png" alt="" width="382" height="32" />
+  <img class="size-full wp-image-23 alignnone" title="Loop" src="https://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-00-29.png" alt="" width="382" height="32" />
 </p>
 
 Cast the ABPerson object
 
 <p style="padding-left: 30px;">
-  <img class="size-full wp-image-24 alignnone" title="Get ABPerson be casting" src="http://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-00-37.png" alt="" width="447" height="26" />
+  <img class="size-full wp-image-24 alignnone" title="Get ABPerson be casting" src="https://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-00-37.png" alt="" width="447" height="26" />
 </p>
 
 Now we can get the properties of the record!
 
 <p style="padding-left: 30px;">
-  <img class="size-full wp-image-25 alignnone" title="Print person names" src="http://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-00-46.png" alt="" width="403" height="199" />
+  <img class="size-full wp-image-25 alignnone" title="Print person names" src="https://finbarr.dev/wp-content/uploads/2010/03/greenshot_2010-03-18_16-00-46.png" alt="" width="403" height="199" />
 </p>
 
 Overall, this fantastic tool gives allows Java developers to access virtually anything that you can access from a native Objective-C XCode project. And although it may not be the most elegant solution, it works quite well for most of us!

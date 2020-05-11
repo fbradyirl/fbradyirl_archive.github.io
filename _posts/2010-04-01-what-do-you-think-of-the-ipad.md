@@ -4,13 +4,13 @@ author: fin
 layout: post
 permalink: /2010/04/what-do-you-think-of-the-ipad/
 featured_img:
-  - http://finbarr.dev/wp-content/uploads/2010/04/ipad3.jpg
+  - https://finbarr.dev/wp-content/uploads/2010/04/ipad3.jpg
 onswipe_thumb:
   - http://img.youtube.com/vi/Luj263H_56A/0.jpg
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
-<img class="size-full wp-image-213 alignright" title="iPad" src="http://finbarr.dev/wp-content/uploads/2010/04/ipad1.jpg" alt="" width="284" height="177" />
+<img class="size-full wp-image-213 alignright" title="iPad" src="https://finbarr.dev/wp-content/uploads/2010/04/ipad1.jpg" alt="" width="284" height="177" />
 
 A question I&#8217;ve heard a number of times recently is:
 
@@ -50,7 +50,7 @@ Because the iPad is totally task-centric, doing things like this will be much mu
 
 This is the market I believe that Apple will do best with: My Dad. Normal people and people new to computers. This is a huge market. Much larger than just us techies. There are a lot of potential users who might have never even used a computer. Yet.
 
-<a rel="shadowbox" href="http://finbarr.dev/wp-content/uploads/2010/04/ipad2.jpg"><img class="size-thumbnail wp-image-218 alignright " title="iPad Touch it" src="http://finbarr.dev/wp-content/uploads/2010/04/ipad2-150x150.jpg" alt="" width="150" height="150" /></a>I would guess that around 90% of users can do all they want to do using:
+<a rel="shadowbox" href="https://finbarr.dev/wp-content/uploads/2010/04/ipad2.jpg"><img class="size-thumbnail wp-image-218 alignright " title="iPad Touch it" src="https://finbarr.dev/wp-content/uploads/2010/04/ipad2-150x150.jpg" alt="" width="150" height="150" /></a>I would guess that around 90% of users can do all they want to do using:
 
 &#8211; Safari: (web browser) Facebook, Google, reading, social networking, news sites and general browsing
 

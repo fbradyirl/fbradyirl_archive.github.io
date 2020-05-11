@@ -4,15 +4,15 @@ author: fin
 layout: post
 permalink: /2010/04/the-next-iphone-4g/
 featured_img:
-  - http://finbarr.dev/wp-content/uploads/2010/04/this-is-apples-next-iphone.jpg
-  - http://finbarr.dev/wp-content/uploads/2010/04/this-is-apples-next-iphone.jpg
+  - https://finbarr.dev/wp-content/uploads/2010/04/this-is-apples-next-iphone.jpg
+  - https://finbarr.dev/wp-content/uploads/2010/04/this-is-apples-next-iphone.jpg
 onswipe_thumb:
   - http://img.youtube.com/vi/oiN5wUfuPKA/0.jpg
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
 <p style="text-align: center;">
-  <a rel="shadowbox" href="http://finbarr.dev/wp-content/uploads/2010/04/bits-appleiphone4-popup.jpg.jpeg"><img class="aligncenter size-medium wp-image-312" title="bits-appleiphone4-popup.jpg" src="http://finbarr.dev/wp-content/uploads/2010/04/bits-appleiphone4-popup.jpg-300x207.jpg" alt="" width="300" height="207" /></a>
+  <a rel="shadowbox" href="https://finbarr.dev/wp-content/uploads/2010/04/bits-appleiphone4-popup.jpg.jpeg"><img class="aligncenter size-medium wp-image-312" title="bits-appleiphone4-popup.jpg" src="https://finbarr.dev/wp-content/uploads/2010/04/bits-appleiphone4-popup.jpg-300x207.jpg" alt="" width="300" height="207" /></a>
 </p>
 
 <p style="text-align: center;">

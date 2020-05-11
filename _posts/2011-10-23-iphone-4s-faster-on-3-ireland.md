@@ -4,11 +4,11 @@ author: fin
 layout: post
 permalink: /2011/10/iphone-4s-faster-on-3-ireland/
 featured_img:
-  - http://finbarr.dev/wp-content/uploads/2011/10/download_speeds.png
+  - https://finbarr.dev/wp-content/uploads/2011/10/download_speeds.png
 js:
   - '<script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//docs.google.com/spreadsheet/tq?key=0Ah3t-H0jHuxSdGx0VGZCOHJzSTNNNmxzNTA1ZklQN2c&transpose=0&headers=1&merge=COLS&range=0!C1%3AC39%2C2!D1%3AD39&rtyp=GID&pub=1","options":{"vAxes":[{"title":"kbps","minValue":null,"maxValue":null}],"reverseCategories":false,"title":"Download Speed on 3 Ireland","backgroundColor":"#FFFFFF","pointSize":0,"legend":"right","logScale":false,"reverseAxis":false,"hAxis":{"maxAlternations":1},"hasLabelsColumn":false,"isStacked":false,"width":1346,"height":455},"state":{},"chartType":"AreaChart","chartName":"Download Speeds"} </script>'
 onswipe_thumb:
-  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2011/10/download_speeds.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'https://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=https://finbarr.dev/wp-content/uploads/2011/10/download_speeds.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
@@ -16,7 +16,7 @@ Apple have upgraded a number of the internals in the latest iPhone release, incl
 
 <!--more-->
 
-<img class="size-full wp-image-705  alignright" title="4SDataSpeeds" src="http://finbarr.dev/wp-content/uploads/2011/10/4SDataSpeeds.png" alt="" width="408" height="187" />
+<img class="size-full wp-image-705  alignright" title="4SDataSpeeds" src="https://finbarr.dev/wp-content/uploads/2011/10/4SDataSpeeds.png" alt="" width="408" height="187" />
 
 In theory, the new phone supports a theoretical maximum download speed of up to 14.4 Mbps. This is a pretty insane speed for a mobile device, if your network even supports it, and if it is available in your area. To give you a comparison, my **fixed line** broadband connection at home only goes so far as 8Mbps downlink maximum, but normally averages out at about 3-4Mbps in reality (Eircom).
 
@@ -24,7 +24,7 @@ My current mobile provider is <a title="Three Irl" href="http://three.ie/" targe
 
 So I decided to run a simple test, using the <a href="http://www.speedtest.net/mobile.php" target="_blank">SpeedTest.net app</a>, to test the data speeds on the iPhone 4 and on the iPhone 4S at the same location (in Galway) around the same time of the day. *A*ll background apps are closed and wifi is disabled. Here are the findings:
 
-<img class="aligncenter size-full wp-image-716" title="Download Speeds 3 Ireland" src="http://finbarr.dev/wp-content/uploads/2011/10/download_speeds.png" alt="" width="600" height="371" />
+<img class="aligncenter size-full wp-image-716" title="Download Speeds 3 Ireland" src="https://finbarr.dev/wp-content/uploads/2011/10/download_speeds.png" alt="" width="600" height="371" />
 
 <table class="aligncenter" width="390" border="0" cellspacing="0" cellpadding="3">
   <tr>

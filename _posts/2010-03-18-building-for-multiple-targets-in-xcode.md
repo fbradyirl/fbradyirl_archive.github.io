@@ -4,7 +4,7 @@ author: fin
 layout: post
 permalink: /2010/03/building-for-multiple-targets-in-xcode/
 onswipe_thumb:
-  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.38.12.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'https://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.38.12.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
@@ -25,14 +25,14 @@ In XCode, create a new project based on the &#8216;Utility Application&#8217; te
 
 Click on &#8216;Build and Run&#8217;
 
-<img class="aligncenter size-full wp-image-61" title="Target1" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.12.24.png" alt="" width="121" height="37" />
+<img class="aligncenter size-full wp-image-61" title="Target1" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.12.24.png" alt="" width="121" height="37" />
 
 Notice under &#8216;Targets&#8217; that there is one default target called &#8216;TargetTest&#8217;
 
 We can create a new target by simply duplicating this one. Right click on that target and select &#8216;Duplicate&#8217;
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-63 aligncenter" title="Duplicate Targets" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.15.15.png" alt="" width="148" height="113" />
+  <img class="size-full wp-image-63 aligncenter" title="Duplicate Targets" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.15.15.png" alt="" width="148" height="113" />
 </p>
 
 <p style="text-align: left;">
@@ -44,7 +44,7 @@ We can create a new target by simply duplicating this one. Right click on that t
 </p>
 
 <p style="text-align: left;">
-  <img class="aligncenter size-full wp-image-65" title="Rename Target" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.24.17.png" alt="" width="148" height="55" />
+  <img class="aligncenter size-full wp-image-65" title="Rename Target" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.24.17.png" alt="" width="148" height="55" />
 </p>
 
 <p style="text-align: left;">
@@ -56,7 +56,7 @@ We can create a new target by simply duplicating this one. Right click on that t
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-66 aligncenter" title="Other C Flags" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.27.27.png" alt="" width="394" height="240" />
+  <img class="size-full wp-image-66 aligncenter" title="Other C Flags" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.27.27.png" alt="" width="394" height="240" />
 </p>
 
 <p style="text-align: left;">
@@ -64,7 +64,7 @@ We can create a new target by simply duplicating this one. Right click on that t
 </p>
 
 <p style="text-align: left;">
-  <img class="aligncenter size-full wp-image-67" title="Target Name" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.29.31.png" alt="" width="481" height="68" />
+  <img class="aligncenter size-full wp-image-67" title="Target Name" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.29.31.png" alt="" width="481" height="68" />
 </p>
 
 <p style="text-align: left;">
@@ -72,7 +72,7 @@ We can create a new target by simply duplicating this one. Right click on that t
 </p>
 
 <p style="text-align: left;">
-  <img class="aligncenter size-full wp-image-68" title="Target ifdef" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.31.44.png" alt="" width="633" height="338" />
+  <img class="aligncenter size-full wp-image-68" title="Target ifdef" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.31.44.png" alt="" width="633" height="338" />
 </p>
 
 <p style="text-align: left;">
@@ -84,7 +84,7 @@ We can create a new target by simply duplicating this one. Right click on that t
 </p>
 
 <p style="text-align: left;">
-  <img class="aligncenter size-full wp-image-69" title="Active Target" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.35.58.png" alt="" width="312" height="83" />
+  <img class="aligncenter size-full wp-image-69" title="Active Target" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.35.58.png" alt="" width="312" height="83" />
 </p>
 
 <p style="text-align: left;">
@@ -92,7 +92,7 @@ We can create a new target by simply duplicating this one. Right click on that t
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-70" title="VIP" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.38.12.png" alt="" width="265" height="493" />
+  <img class="aligncenter size-full wp-image-70" title="VIP" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-23.38.12.png" alt="" width="265" height="493" />
 </p>
 
 <p style="text-align: left;">
@@ -109,7 +109,7 @@ We can create a new target by simply duplicating this one. Right click on that t
   </p>
 
   <p style="text-align: left;">
-    Download the demo project <a href="http://finbarr.dev/files/demos/TargetTestDemo.zip">here</a>.
+    Download the demo project <a href="https://finbarr.dev/files/demos/TargetTestDemo.zip">here</a>.
   </p>
 
   <p style="text-align: left;">

@@ -4,9 +4,9 @@ author: fin
 layout: post
 permalink: /2010/03/mac-tip-expose-active-screen-corners/
 featured_img:
-  - http://finbarr.dev/wp-content/uploads/2010/03/Expose_Main.png
+  - https://finbarr.dev/wp-content/uploads/2010/03/Expose_Main.png
 onswipe_thumb:
-  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2010/03/Expose_Main.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'https://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=https://finbarr.dev/wp-content/uploads/2010/03/Expose_Main.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
@@ -17,7 +17,7 @@ Hot Corners allow you to trigger an action by using a the simple gesture of poin
 Configured under System Preferences, you can program what each corner will do:
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-92" title="Expose" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-21-at-17.39.21.png" alt="" width="302" height="203" />
+  <img class="aligncenter size-full wp-image-92" title="Expose" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-21-at-17.39.21.png" alt="" width="302" height="203" />
 </p>
 
 <p style="text-align: center;">
@@ -30,7 +30,7 @@ Configured under System Preferences, you can program what each corner will do:
   </p>
 
   <p style="text-align: left;">
-    <a href="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-21-at-17.48.49.png"><img class="aligncenter size-full wp-image-96" title="Trackpad Expose" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-21-at-17.48.49.png" alt="" width="309" height="68" /></a>
+    <a href="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-21-at-17.48.49.png"><img class="aligncenter size-full wp-image-96" title="Trackpad Expose" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-21-at-17.48.49.png" alt="" width="309" height="68" /></a>
   </p>
 
   <p style="text-align: left;">
@@ -38,5 +38,5 @@ Configured under System Preferences, you can program what each corner will do:
   </p>
 
   <p style="text-align: center;">
-    <img class="aligncenter size-full wp-image-94" title="My Expose" src="http://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-21-at-17.39.44.png" alt="" width="598" height="590" />
+    <img class="aligncenter size-full wp-image-94" title="My Expose" src="https://finbarr.dev/wp-content/uploads/2010/03/Screen-shot-2010-03-21-at-17.39.44.png" alt="" width="598" height="590" />
   </p>

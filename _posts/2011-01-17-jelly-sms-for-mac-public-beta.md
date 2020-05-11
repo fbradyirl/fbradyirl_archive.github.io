@@ -11,14 +11,14 @@ enclosure:
         video/mp4
 
 onswipe_thumb:
-  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2011/01/512x512.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'https://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=https://finbarr.dev/wp-content/uploads/2011/01/512x512.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
 Update March 7 2011: The beta period is now over. Thanks so much to those who helped out, and reported issues and feedback. Jelly SMS is now available on the Mac App Store. See[ JellySMS.com][1] for more info and to get the app.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-600" title="JellyScreen1" src="http://finbarr.dev/wp-content/uploads/2011/01/JellyScreen1.png" alt="" width="477" height="294" />
+  <img class="aligncenter size-full wp-image-600" title="JellyScreen1" src="https://finbarr.dev/wp-content/uploads/2011/01/JellyScreen1.png" alt="" width="477" height="294" />
 </p>
 
 <p style="text-align: center;">
@@ -31,7 +31,7 @@ Update March 7 2011: The beta period is now over. Thanks so much to those who he
 
 ** **
 
-[Jelly SMS Mac App Store demo video][2]<img class="alignright size-thumbnail wp-image-628" title="512x512" src="http://finbarr.dev/wp-content/uploads/2011/01/512x512-150x150.png" alt="" width="150" height="150" />
+[Jelly SMS Mac App Store demo video][2]<img class="alignright size-thumbnail wp-image-628" title="512x512" src="https://finbarr.dev/wp-content/uploads/2011/01/512x512-150x150.png" alt="" width="150" height="150" />
 
 Jelly SMS has been re-designed from the ground up, so why not download this preview and get texting on your Mac! The beta will expire within 2 weeks and is only supported on Mac OS 10.6.6 or later.
 
@@ -103,5 +103,5 @@ However, we will encourage users to use the Mac App Store version as this versio
  [1]: http://www.jellysms.com/desktop/
  [2]: http://www.extraextra.ie/files/JellyMacDemo1.mp4
  [3]: http://docs.info.apple.com/article.html?path=AddressBook/4.0/en/ad44.html
- [4]: http://finbarr.dev/2010/10/mac-app-store-users-developers/
+ [4]: https://finbarr.dev/2010/10/mac-app-store-users-developers/
  [5]: https://sourceforge.net/projects/jsmsirl/

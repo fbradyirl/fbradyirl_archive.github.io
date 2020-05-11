@@ -4,9 +4,9 @@ author: fin
 layout: post
 permalink: /2010/07/help-us-get-international-promo-codes/
 featured_img:
-  - http://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-08_11-09-55.png
+  - https://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-08_11-09-55.png
 onswipe_thumb:
-  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-08_11-09-55.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'https://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=https://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-08_11-09-55.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
@@ -20,7 +20,7 @@ I am trying to get people aware that we all should post a bug report at <http:/
 
 Apple collects these reports and when a certain number of people request the same functionality then Apple will be compelled to fulfill their user’s wish. The same thing happened after enough people cloned the [radar request][2] to get an iTunes Connect API, and recently resulted in Apple developing and releasing the iTunes Connect app.
 
-<img class="aligncenter size-full wp-image-398" title="greenshot_2010-07-08_10-29-40" src="http://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-08_10-29-40.png" alt="" width="779" height="70" />
+<img class="aligncenter size-full wp-image-398" title="greenshot_2010-07-08_10-29-40" src="https://finbarr.dev/wp-content/uploads/2010/07/greenshot_2010-07-08_10-29-40.png" alt="" width="779" height="70" />
 
 You should mention that you “vote for” bug report number 8170041, because then this increases weight and visibility of the original request.
 
@@ -78,4 +78,4 @@ Please also spread the word to other devs and [Tweet about this][3].
 
  [1]: http://twitgoo.com/1row84
  [2]: http://openradar.appspot.com/6989416
- [3]: http://twitter.com/home?source=finbarrbrady&status=iOS%20Developers:%20Help%20us%20get%20international%20promo%20codes%20-%20http://finbarr.dev/2010/07/help-us-get-international-promo-codes/
+ [3]: http://twitter.com/home?source=finbarrbrady&status=iOS%20Developers:%20Help%20us%20get%20international%20promo%20codes%20-%20https://finbarr.dev/2010/07/help-us-get-international-promo-codes/

@@ -4,9 +4,9 @@ author: fin
 layout: post
 permalink: /2010/04/tethering-your-iphone-connection-with-your-ipad/
 featured_img:
-  - http://finbarr.dev/wp-content/uploads/2010/04/MyWiWeb1.png
+  - https://finbarr.dev/wp-content/uploads/2010/04/MyWiWeb1.png
 onswipe_thumb:
-  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2010/04/MyWiWeb1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'https://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=https://finbarr.dev/wp-content/uploads/2010/04/MyWiWeb1.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
@@ -16,7 +16,7 @@ But what about the iPhone in their pocket? Wouldn&#8217;t it be great if I could
 
 You may think that tethering will just work already as it does over USB or Bluetooth between your iPhone & laptop. Wrong. Steve Jobs has [spoken][1] and the man says &#8220;No&#8221;.
 
-<a rel="shadowbox" href="http://finbarr.dev/wp-content/uploads/2010/04/MyWiWeb1_2.png"><img class="alignleft size-medium wp-image-271" title="MyWiWeb1_2" src="http://finbarr.dev/wp-content/uploads/2010/04/MyWiWeb1_2-176x300.png" alt="" width="176" height="300" /></a>I thought I had seen the last of jailbreaking, especially after hearing about iPhone OS 4.0, but now it looks like I will be doing it again. The last time I jailbroke was to use PDANet to enable tethering when I was without broadband in my old house. This time it will be for similar reasons, but for *outside* the house.
+<a rel="shadowbox" href="https://finbarr.dev/wp-content/uploads/2010/04/MyWiWeb1_2.png"><img class="alignleft size-medium wp-image-271" title="MyWiWeb1_2" src="https://finbarr.dev/wp-content/uploads/2010/04/MyWiWeb1_2-176x300.png" alt="" width="176" height="300" /></a>I thought I had seen the last of jailbreaking, especially after hearing about iPhone OS 4.0, but now it looks like I will be doing it again. The last time I jailbroke was to use PDANet to enable tethering when I was without broadband in my old house. This time it will be for similar reasons, but for *outside* the house.
 
 Available only on the Cydia store, [MyWi][2] lets you create a WiFi Hotspot to share your iPhone&#8217;s internet connection and to connect your iPad (or mutiple devices) to the web.
 

@@ -4,13 +4,13 @@ author: fin
 layout: post
 permalink: /2010/05/the-new-apple-tv-with-iphone-os/
 featured_img:
-  - http://finbarr.dev/wp-content/uploads/2010/05/appletvnew.jpg
+  - https://finbarr.dev/wp-content/uploads/2010/05/appletvnew.jpg
 onswipe_thumb:
-  - 'http://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=http://finbarr.dev/wp-content/uploads/2010/05/appletvnew.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'https://finbarr.dev/wp-content/plugins/onswipe/thumb/thumb.php?src=https://finbarr.dev/wp-content/uploads/2010/05/appletvnew.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 category: tech
 tags: [ 'tech', 'wp' ]
 ---
-<img class="aligncenter size-full wp-image-359" title="appletvnew" src="http://finbarr.dev/wp-content/uploads/2010/05/appletvnew.jpg" alt="" width="600" height="483" />
+<img class="aligncenter size-full wp-image-359" title="appletvnew" src="https://finbarr.dev/wp-content/uploads/2010/05/appletvnew.jpg" alt="" width="600" height="483" />
 
 I&#8217;m really liking the way this is going.<!--more-->Are we soon going to see an iTV App Store? Possibly. Engadget is saying that Apple may soon release a redesigned, low cost, Apple TV running iPhone OS.
 
